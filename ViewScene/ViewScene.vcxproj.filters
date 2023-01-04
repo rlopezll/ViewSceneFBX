@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="GL">
+      <UniqueIdentifier>{40029079-2771-461a-a8c7-3e7adf8f17e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{4a9836ba-9a12-4345-9348-767d0335136c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GetPosition.cxx" />
+    <ClCompile Include="GlFunctions.cxx" />
+    <ClCompile Include="main.cxx" />
+    <ClCompile Include="SceneCache.cxx" />
+    <ClCompile Include="SceneContext.cxx" />
+    <ClCompile Include="SetCamera.cxx" />
+    <ClCompile Include="targa.cxx" />
+    <ClCompile Include="DrawScene.cxx" />
+    <ClCompile Include="DrawText.cxx" />
+    <ClCompile Include="..\Common\AnimationUtility.cxx">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Common.cxx">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\GeometryUtility.cxx">
+      <Filter>Common</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GetPosition.h" />
+    <ClInclude Include="GlFunctions.h" />
+    <ClInclude Include="SceneCache.h" />
+    <ClInclude Include="SceneContext.h" />
+    <ClInclude Include="SetCamera.h" />
+    <ClInclude Include="targa.h" />
+    <ClInclude Include="DrawScene.h" />
+    <ClInclude Include="DrawText.h" />
+    <ClInclude Include="GL\glew.h">
+      <Filter>GL</Filter>
+    </ClInclude>
+    <ClInclude Include="GL\glut.h">
+      <Filter>GL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\AnimationUtility.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Common.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\GeometryUtility.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="humanoid.fbx" />
+    <None Include="FBX_ASCII_TEXTURE" />
+  </ItemGroup>
+</Project>
