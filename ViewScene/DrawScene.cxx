@@ -128,6 +128,8 @@ void DrawNode(FbxNode* pNode,
 
 	if (lNodeAttribute)
 	{
+		FbxNodeAttribute::EType nodeAttribute = lNodeAttribute->GetAttributeType();
+
 		// All lights has been processed before the whole scene because they influence every geometry.
 		if (lNodeAttribute->GetAttributeType() == FbxNodeAttribute::eMarker)
 		{

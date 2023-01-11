@@ -1,0 +1,4291 @@
+Autodesk FBX SDK version 2020.3.2 Release (de68e4aab)
+
+
+File: tentacle.fbx
+
+FBX file format version for this FBX SDK is 7.7.0
+FBX file format version for file 'tentacle.fbx' is 7.7.0
+
+Animation Stack Information
+    Number of Animation Stacks: 1
+    Current Animation Stack: "Take 001"
+
+    Animation Stack 0
+         Name: "Take 001"
+         Description: ""
+         Import Name: "Take 001"
+         Import State: true
+
+
+
+--------------------
+Meta-Data
+--------------------
+
+    Title: 
+    Subject: 
+    Author: 
+    Keywords: 
+    Revision: 
+    Comment: 
+
+
+---------------------
+Global Light Settings
+---------------------
+
+Ambient Color: 0.000000 (red), 0.000000 (green), 0.000000 (blue)
+
+
+
+----------------------
+Global Camera Settings
+----------------------
+
+Default Camera: Producer Perspective
+
+
+
+--------------------
+Global Time Settings
+--------------------
+
+Time Mode : 30 fps
+Timeline default timespan: 
+     Start: 0
+     Stop : 60
+
+
+
+---------
+Hierarchy
+---------
+
+Tentacle
+Bone001
+     Bone002
+
+
+------------
+Node Content
+------------
+
+Mesh Name: Tentacle
+    Control Points
+        Control Point 0
+            Coordinates: -95.000000, -12.500000, 0.000000
+        Control Point 1
+            Coordinates: -31.666668, -10.645999, 1.854001
+        Control Point 2
+            Coordinates: 31.666664, -6.230686, 6.269314
+        Control Point 3
+            Coordinates: 95.000000, -1.821348, 10.678652
+        Control Point 4
+            Coordinates: -95.000000, 12.500000, 0.000000
+        Control Point 5
+            Coordinates: -31.666668, 10.645999, 1.854001
+        Control Point 6
+            Coordinates: 31.666664, 6.230686, 6.269314
+        Control Point 7
+            Coordinates: 95.000000, 1.821348, 10.678652
+        Control Point 8
+            Coordinates: -95.000000, -12.500000, 25.000000
+        Control Point 9
+            Coordinates: -31.666668, -10.645999, 23.146000
+        Control Point 10
+            Coordinates: 31.666664, -6.230686, 18.730686
+        Control Point 11
+            Coordinates: 95.000000, -1.821348, 14.321348
+        Control Point 12
+            Coordinates: -95.000000, 12.500000, 25.000000
+        Control Point 13
+            Coordinates: -31.666668, 10.645999, 23.146000
+        Control Point 14
+            Coordinates: 31.666664, 6.230686, 18.730686
+        Control Point 15
+            Coordinates: 95.000000, 1.821347, 14.321348
+
+    Polygons
+        Polygon 0
+            Coordinates: -95.000000, 12.500000, 0.000000
+            Color vertex: 0.062745 (red), 0.443137 (green), 0.141176 (blue)
+            Texture UV: 1.000000, 1.000000
+            Normal: 0.041364, 0.706501, -0.706502
+            Coordinates: -31.666668, 10.645999, 1.854001
+            Color vertex: 0.206011 (red), 0.813395 (green), 0.178232 (blue)
+            Texture UV: 0.666667, 1.000000
+            Normal: 0.068893, 0.705427, -0.705427
+            Coordinates: -95.000000, -12.500000, 0.000000
+            Color vertex: 0.067354 (red), 0.452355 (green), 0.140490 (blue)
+            Texture UV: 1.000000, 0.000000
+            Normal: 0.041364, -0.706501, -0.706502
+        Polygon 1
+            Coordinates: -31.666668, -10.645999, 1.854001
+            Color vertex: 0.247059 (red), 0.811765 (green), 0.113725 (blue)
+            Texture UV: 0.666667, 0.000000
+            Normal: 0.068893, -0.705427, -0.705427
+            Coordinates: -95.000000, -12.500000, 0.000000
+            Color vertex: 0.067354 (red), 0.452355 (green), 0.140490 (blue)
+            Texture UV: 1.000000, 0.000000
+            Normal: 0.041364, -0.706501, -0.706502
+            Coordinates: -31.666668, 10.645999, 1.854001
+            Color vertex: 0.206011 (red), 0.813395 (green), 0.178232 (blue)
+            Texture UV: 0.666667, 1.000000
+            Normal: 0.068893, 0.705427, -0.705427
+        Polygon 2
+            Coordinates: -31.666668, 10.645999, 1.854001
+            Color vertex: 0.206011 (red), 0.813395 (green), 0.178232 (blue)
+            Texture UV: 0.666667, 1.000000
+            Normal: 0.068893, 0.705427, -0.705427
+            Coordinates: 31.666664, 6.230686, 6.269314
+            Color vertex: 0.764706 (red), 0.905882 (green), 0.564706 (blue)
+            Texture UV: 0.333333, 1.000000
+            Normal: 0.098054, 0.703699, -0.703699
+            Coordinates: -31.666668, -10.645999, 1.854001
+            Color vertex: 0.247059 (red), 0.811765 (green), 0.113725 (blue)
+            Texture UV: 0.666667, 0.000000
+            Normal: 0.068893, -0.705427, -0.705427
+        Polygon 3
+            Coordinates: 31.666664, -6.230686, 6.269314
+            Color vertex: 0.764706 (red), 0.905882 (green), 0.564706 (blue)
+            Texture UV: 0.333333, 0.000000
+            Normal: 0.098054, -0.703699, -0.703699
+            Coordinates: -31.666668, -10.645999, 1.854001
+            Color vertex: 0.247059 (red), 0.811765 (green), 0.113725 (blue)
+            Texture UV: 0.666667, 0.000000
+            Normal: 0.068893, -0.705427, -0.705427
+            Coordinates: 31.666664, 6.230686, 6.269314
+            Color vertex: 0.764706 (red), 0.905882 (green), 0.564706 (blue)
+            Texture UV: 0.333333, 1.000000
+            Normal: 0.098054, 0.703699, -0.703699
+        Polygon 4
+            Coordinates: 31.666664, 6.230686, 6.269314
+            Color vertex: 0.764706 (red), 0.905882 (green), 0.564706 (blue)
+            Texture UV: 0.333333, 1.000000
+            Normal: 0.098054, 0.703699, -0.703699
+            Coordinates: 95.000000, 1.821348, 10.678652
+            Color vertex: 1.000000 (red), 0.235294 (green), 0.235294 (blue)
+            Texture UV: -0.000000, 1.000000
+            Normal: 0.097985, 0.703704, -0.703704
+            Coordinates: 31.666664, -6.230686, 6.269314
+            Color vertex: 0.764706 (red), 0.905882 (green), 0.564706 (blue)
+            Texture UV: 0.333333, 0.000000
+            Normal: 0.098054, -0.703699, -0.703699
+        Polygon 5
+            Coordinates: 95.000000, -1.821348, 10.678652
+            Color vertex: 1.000000 (red), 0.235294 (green), 0.235294 (blue)
+            Texture UV: -0.000000, 0.000000
+            Normal: 0.097985, -0.703704, -0.703704
+            Coordinates: 31.666664, -6.230686, 6.269314
+            Color vertex: 0.764706 (red), 0.905882 (green), 0.564706 (blue)
+            Texture UV: 0.333333, 0.000000
+            Normal: 0.098054, -0.703699, -0.703699
+            Coordinates: 95.000000, 1.821348, 10.678652
+            Color vertex: 1.000000 (red), 0.235294 (green), 0.235294 (blue)
+            Texture UV: -0.000000, 1.000000
+            Normal: 0.097985, 0.703704, -0.703704
+        Polygon 6
+            Coordinates: -31.666668, 10.645999, 23.146000
+            Color vertex: 0.220771 (red), 0.814615 (green), 0.182333 (blue)
+            Texture UV: 0.333333, 1.000000
+            Normal: 0.068893, 0.705427, 0.705427
+            Coordinates: -95.000000, 12.500000, 25.000000
+            Color vertex: 0.062745 (red), 0.443137 (green), 0.141176 (blue)
+            Texture UV: 0.000000, 1.000000
+            Normal: 0.041364, 0.706502, 0.706502
+            Coordinates: -95.000000, -12.500000, 25.000000
+            Color vertex: 0.062899 (red), 0.444165 (green), 0.141502 (blue)
+            Texture UV: 0.000000, 0.000000
+            Normal: 0.041364, -0.706502, 0.706502
+        Polygon 7
+            Coordinates: -31.666668, 10.645999, 23.146000
+            Color vertex: 0.220771 (red), 0.814615 (green), 0.182333 (blue)
+            Texture UV: 0.333333, 1.000000
+            Normal: 0.068893, 0.705427, 0.705427
+            Coordinates: -95.000000, -12.500000, 25.000000
+            Color vertex: 0.062899 (red), 0.444165 (green), 0.141502 (blue)
+            Texture UV: 0.000000, 0.000000
+            Normal: 0.041364, -0.706502, 0.706502
+            Coordinates: -31.666668, -10.645999, 23.146000
+            Color vertex: 0.247059 (red), 0.811765 (green), 0.113725 (blue)
+            Texture UV: 0.333333, 0.000000
+            Normal: 0.068893, -0.705427, 0.705427
+        Polygon 8
+            Coordinates: 31.666664, 6.230686, 18.730686
+            Color vertex: 0.764706 (red), 0.905882 (green), 0.564706 (blue)
+            Texture UV: 0.666667, 1.000000
+            Normal: 0.098054, 0.703699, 0.703699
+            Coordinates: -31.666668, 10.645999, 23.146000
+            Color vertex: 0.220771 (red), 0.814615 (green), 0.182333 (blue)
+            Texture UV: 0.333333, 1.000000
+            Normal: 0.068893, 0.705427, 0.705427
+            Coordinates: -31.666668, -10.645999, 23.146000
+            Color vertex: 0.247059 (red), 0.811765 (green), 0.113725 (blue)
+            Texture UV: 0.333333, 0.000000
+            Normal: 0.068893, -0.705427, 0.705427
+        Polygon 9
+            Coordinates: 31.666664, 6.230686, 18.730686
+            Color vertex: 0.764706 (red), 0.905882 (green), 0.564706 (blue)
+            Texture UV: 0.666667, 1.000000
+            Normal: 0.098054, 0.703699, 0.703699
+            Coordinates: -31.666668, -10.645999, 23.146000
+            Color vertex: 0.247059 (red), 0.811765 (green), 0.113725 (blue)
+            Texture UV: 0.333333, 0.000000
+            Normal: 0.068893, -0.705427, 0.705427
+            Coordinates: 31.666664, -6.230686, 18.730686
+            Color vertex: 0.764706 (red), 0.905882 (green), 0.564706 (blue)
+            Texture UV: 0.666667, 0.000000
+            Normal: 0.098054, -0.703699, 0.703699
+        Polygon 10
+            Coordinates: 95.000000, 1.821347, 14.321348
+            Color vertex: 1.000000 (red), 0.235294 (green), 0.235294 (blue)
+            Texture UV: 1.000000, 1.000000
+            Normal: 0.097985, 0.703704, 0.703704
+            Coordinates: 31.666664, 6.230686, 18.730686
+            Color vertex: 0.764706 (red), 0.905882 (green), 0.564706 (blue)
+            Texture UV: 0.666667, 1.000000
+            Normal: 0.098054, 0.703699, 0.703699
+            Coordinates: 31.666664, -6.230686, 18.730686
+            Color vertex: 0.764706 (red), 0.905882 (green), 0.564706 (blue)
+            Texture UV: 0.666667, 0.000000
+            Normal: 0.098054, -0.703699, 0.703699
+        Polygon 11
+            Coordinates: 95.000000, 1.821347, 14.321348
+            Color vertex: 1.000000 (red), 0.235294 (green), 0.235294 (blue)
+            Texture UV: 1.000000, 1.000000
+            Normal: 0.097985, 0.703704, 0.703704
+            Coordinates: 31.666664, -6.230686, 18.730686
+            Color vertex: 0.764706 (red), 0.905882 (green), 0.564706 (blue)
+            Texture UV: 0.666667, 0.000000
+            Normal: 0.098054, -0.703699, 0.703699
+            Coordinates: 95.000000, -1.821348, 14.321348
+            Color vertex: 1.000000 (red), 0.235294 (green), 0.235294 (blue)
+            Texture UV: 1.000000, 0.000000
+            Normal: 0.097985, -0.703704, 0.703704
+        Polygon 12
+            Coordinates: -95.000000, -12.500000, 25.000000
+            Color vertex: 0.062899 (red), 0.444165 (green), 0.141502 (blue)
+            Texture UV: 0.000000, 1.000000
+            Normal: 0.041364, -0.706502, 0.706502
+            Coordinates: -31.666668, -10.645999, 1.854001
+            Color vertex: 0.247059 (red), 0.811765 (green), 0.113725 (blue)
+            Texture UV: 0.333333, 0.000000
+            Normal: 0.068893, -0.705427, -0.705427
+            Coordinates: -31.666668, -10.645999, 23.146000
+            Color vertex: 0.247059 (red), 0.811765 (green), 0.113725 (blue)
+            Texture UV: 0.333333, 1.000000
+            Normal: 0.068893, -0.705427, 0.705427
+        Polygon 13
+            Coordinates: -31.666668, -10.645999, 1.854001
+            Color vertex: 0.247059 (red), 0.811765 (green), 0.113725 (blue)
+            Texture UV: 0.333333, 0.000000
+            Normal: 0.068893, -0.705427, -0.705427
+            Coordinates: -95.000000, -12.500000, 25.000000
+            Color vertex: 0.062899 (red), 0.444165 (green), 0.141502 (blue)
+            Texture UV: 0.000000, 1.000000
+            Normal: 0.041364, -0.706502, 0.706502
+            Coordinates: -95.000000, -12.500000, 0.000000
+            Color vertex: 0.067354 (red), 0.452355 (green), 0.140490 (blue)
+            Texture UV: 0.000000, 0.000000
+            Normal: 0.041364, -0.706501, -0.706502
+        Polygon 14
+            Coordinates: 31.666664, -6.230686, 18.730686
+            Color vertex: 0.764706 (red), 0.905882 (green), 0.564706 (blue)
+            Texture UV: 0.666667, 1.000000
+            Normal: 0.098054, -0.703699, 0.703699
+            Coordinates: -31.666668, -10.645999, 23.146000
+            Color vertex: 0.247059 (red), 0.811765 (green), 0.113725 (blue)
+            Texture UV: 0.333333, 1.000000
+            Normal: 0.068893, -0.705427, 0.705427
+            Coordinates: -31.666668, -10.645999, 1.854001
+            Color vertex: 0.247059 (red), 0.811765 (green), 0.113725 (blue)
+            Texture UV: 0.333333, 0.000000
+            Normal: 0.068893, -0.705427, -0.705427
+        Polygon 15
+            Coordinates: 31.666664, -6.230686, 18.730686
+            Color vertex: 0.764706 (red), 0.905882 (green), 0.564706 (blue)
+            Texture UV: 0.666667, 1.000000
+            Normal: 0.098054, -0.703699, 0.703699
+            Coordinates: -31.666668, -10.645999, 1.854001
+            Color vertex: 0.247059 (red), 0.811765 (green), 0.113725 (blue)
+            Texture UV: 0.333333, 0.000000
+            Normal: 0.068893, -0.705427, -0.705427
+            Coordinates: 31.666664, -6.230686, 6.269314
+            Color vertex: 0.764706 (red), 0.905882 (green), 0.564706 (blue)
+            Texture UV: 0.666667, 0.000000
+            Normal: 0.098054, -0.703699, -0.703699
+        Polygon 16
+            Coordinates: 95.000000, -1.821348, 14.321348
+            Color vertex: 1.000000 (red), 0.235294 (green), 0.235294 (blue)
+            Texture UV: 1.000000, 1.000000
+            Normal: 0.097985, -0.703704, 0.703704
+            Coordinates: 31.666664, -6.230686, 18.730686
+            Color vertex: 0.764706 (red), 0.905882 (green), 0.564706 (blue)
+            Texture UV: 0.666667, 1.000000
+            Normal: 0.098054, -0.703699, 0.703699
+            Coordinates: 31.666664, -6.230686, 6.269314
+            Color vertex: 0.764706 (red), 0.905882 (green), 0.564706 (blue)
+            Texture UV: 0.666667, 0.000000
+            Normal: 0.098054, -0.703699, -0.703699
+        Polygon 17
+            Coordinates: 95.000000, -1.821348, 14.321348
+            Color vertex: 1.000000 (red), 0.235294 (green), 0.235294 (blue)
+            Texture UV: 1.000000, 1.000000
+            Normal: 0.097985, -0.703704, 0.703704
+            Coordinates: 31.666664, -6.230686, 6.269314
+            Color vertex: 0.764706 (red), 0.905882 (green), 0.564706 (blue)
+            Texture UV: 0.666667, 0.000000
+            Normal: 0.098054, -0.703699, -0.703699
+            Coordinates: 95.000000, -1.821348, 10.678652
+            Color vertex: 1.000000 (red), 0.235294 (green), 0.235294 (blue)
+            Texture UV: 1.000000, 0.000000
+            Normal: 0.097985, -0.703704, -0.703704
+        Polygon 18
+            Coordinates: 95.000000, 1.821347, 14.321348
+            Color vertex: 1.000000 (red), 0.235294 (green), 0.235294 (blue)
+            Texture UV: 1.000000, 1.000000
+            Normal: 1.000000, 0.000000, 0.000000
+            Coordinates: 95.000000, -1.821348, 14.321348
+            Color vertex: 1.000000 (red), 0.235294 (green), 0.235294 (blue)
+            Texture UV: 0.000000, 1.000000
+            Normal: 1.000000, 0.000000, 0.000000
+            Coordinates: 95.000000, -1.821348, 10.678652
+            Color vertex: 1.000000 (red), 0.235294 (green), 0.235294 (blue)
+            Texture UV: 0.000000, 0.000000
+            Normal: 1.000000, 0.000000, 0.000000
+        Polygon 19
+            Coordinates: 95.000000, 1.821347, 14.321348
+            Color vertex: 1.000000 (red), 0.235294 (green), 0.235294 (blue)
+            Texture UV: 1.000000, 1.000000
+            Normal: 1.000000, 0.000000, 0.000000
+            Coordinates: 95.000000, -1.821348, 10.678652
+            Color vertex: 1.000000 (red), 0.235294 (green), 0.235294 (blue)
+            Texture UV: 0.000000, 0.000000
+            Normal: 1.000000, 0.000000, 0.000000
+            Coordinates: 95.000000, 1.821348, 10.678652
+            Color vertex: 1.000000 (red), 0.235294 (green), 0.235294 (blue)
+            Texture UV: 1.000000, 0.000000
+            Normal: 1.000000, 0.000000, 0.000000
+        Polygon 20
+            Coordinates: 95.000000, 1.821347, 14.321348
+            Color vertex: 1.000000 (red), 0.235294 (green), 0.235294 (blue)
+            Texture UV: 0.000000, 1.000000
+            Normal: 0.097985, 0.703704, 0.703704
+            Coordinates: 31.666664, 6.230686, 6.269314
+            Color vertex: 0.764706 (red), 0.905882 (green), 0.564706 (blue)
+            Texture UV: 0.333333, 0.000000
+            Normal: 0.098054, 0.703699, -0.703699
+            Coordinates: 31.666664, 6.230686, 18.730686
+            Color vertex: 0.764706 (red), 0.905882 (green), 0.564706 (blue)
+            Texture UV: 0.333333, 1.000000
+            Normal: 0.098054, 0.703699, 0.703699
+        Polygon 21
+            Coordinates: 31.666664, 6.230686, 6.269314
+            Color vertex: 0.764706 (red), 0.905882 (green), 0.564706 (blue)
+            Texture UV: 0.333333, 0.000000
+            Normal: 0.098054, 0.703699, -0.703699
+            Coordinates: 95.000000, 1.821347, 14.321348
+            Color vertex: 1.000000 (red), 0.235294 (green), 0.235294 (blue)
+            Texture UV: 0.000000, 1.000000
+            Normal: 0.097985, 0.703704, 0.703704
+            Coordinates: 95.000000, 1.821348, 10.678652
+            Color vertex: 1.000000 (red), 0.235294 (green), 0.235294 (blue)
+            Texture UV: 0.000000, 0.000000
+            Normal: 0.097985, 0.703704, -0.703704
+        Polygon 22
+            Coordinates: 31.666664, 6.230686, 18.730686
+            Color vertex: 0.764706 (red), 0.905882 (green), 0.564706 (blue)
+            Texture UV: 0.333333, 1.000000
+            Normal: 0.098054, 0.703699, 0.703699
+            Coordinates: -31.666668, 10.645999, 1.854001
+            Color vertex: 0.206011 (red), 0.813395 (green), 0.178232 (blue)
+            Texture UV: 0.666667, 0.000000
+            Normal: 0.068893, 0.705427, -0.705427
+            Coordinates: -31.666668, 10.645999, 23.146000
+            Color vertex: 0.220771 (red), 0.814615 (green), 0.182333 (blue)
+            Texture UV: 0.666667, 1.000000
+            Normal: 0.068893, 0.705427, 0.705427
+        Polygon 23
+            Coordinates: -31.666668, 10.645999, 1.854001
+            Color vertex: 0.206011 (red), 0.813395 (green), 0.178232 (blue)
+            Texture UV: 0.666667, 0.000000
+            Normal: 0.068893, 0.705427, -0.705427
+            Coordinates: 31.666664, 6.230686, 18.730686
+            Color vertex: 0.764706 (red), 0.905882 (green), 0.564706 (blue)
+            Texture UV: 0.333333, 1.000000
+            Normal: 0.098054, 0.703699, 0.703699
+            Coordinates: 31.666664, 6.230686, 6.269314
+            Color vertex: 0.764706 (red), 0.905882 (green), 0.564706 (blue)
+            Texture UV: 0.333333, 0.000000
+            Normal: 0.098054, 0.703699, -0.703699
+        Polygon 24
+            Coordinates: -95.000000, 12.500000, 25.000000
+            Color vertex: 0.062745 (red), 0.443137 (green), 0.141176 (blue)
+            Texture UV: 1.000000, 1.000000
+            Normal: 0.041364, 0.706502, 0.706502
+            Coordinates: -31.666668, 10.645999, 23.146000
+            Color vertex: 0.220771 (red), 0.814615 (green), 0.182333 (blue)
+            Texture UV: 0.666667, 1.000000
+            Normal: 0.068893, 0.705427, 0.705427
+            Coordinates: -31.666668, 10.645999, 1.854001
+            Color vertex: 0.206011 (red), 0.813395 (green), 0.178232 (blue)
+            Texture UV: 0.666667, 0.000000
+            Normal: 0.068893, 0.705427, -0.705427
+        Polygon 25
+            Coordinates: -95.000000, 12.500000, 25.000000
+            Color vertex: 0.062745 (red), 0.443137 (green), 0.141176 (blue)
+            Texture UV: 1.000000, 1.000000
+            Normal: 0.041364, 0.706502, 0.706502
+            Coordinates: -31.666668, 10.645999, 1.854001
+            Color vertex: 0.206011 (red), 0.813395 (green), 0.178232 (blue)
+            Texture UV: 0.666667, 0.000000
+            Normal: 0.068893, 0.705427, -0.705427
+            Coordinates: -95.000000, 12.500000, 0.000000
+            Color vertex: 0.062745 (red), 0.443137 (green), 0.141176 (blue)
+            Texture UV: 1.000000, 0.000000
+            Normal: 0.041364, 0.706501, -0.706502
+        Polygon 26
+            Coordinates: -95.000000, -12.500000, 25.000000
+            Color vertex: 0.062899 (red), 0.444165 (green), 0.141502 (blue)
+            Texture UV: 1.000000, 1.000000
+            Normal: -1.000000, 0.000000, 0.000000
+            Coordinates: -95.000000, 12.500000, 25.000000
+            Color vertex: 0.062745 (red), 0.443137 (green), 0.141176 (blue)
+            Texture UV: 0.000000, 1.000000
+            Normal: -1.000000, 0.000000, 0.000000
+            Coordinates: -95.000000, 12.500000, 0.000000
+            Color vertex: 0.062745 (red), 0.443137 (green), 0.141176 (blue)
+            Texture UV: 0.000000, 0.000000
+            Normal: -1.000000, 0.000000, 0.000000
+        Polygon 27
+            Coordinates: -95.000000, -12.500000, 25.000000
+            Color vertex: 0.062899 (red), 0.444165 (green), 0.141502 (blue)
+            Texture UV: 1.000000, 1.000000
+            Normal: -1.000000, 0.000000, 0.000000
+            Coordinates: -95.000000, 12.500000, 0.000000
+            Color vertex: 0.062745 (red), 0.443137 (green), 0.141176 (blue)
+            Texture UV: 0.000000, 0.000000
+            Normal: -1.000000, 0.000000, 0.000000
+            Coordinates: -95.000000, -12.500000, 0.000000
+            Color vertex: 0.067354 (red), 0.452355 (green), 0.140490 (blue)
+            Texture UV: 1.000000, 0.000000
+            Normal: -1.000000, 0.000000, 0.000000
+
+
+    Polygons Material Connections
+        no material applied
+    Cluster 0
+    Mode: Normalize
+        Name: Bone001
+        Link Indices: 0, 1, 2, 4, 5, 6, 8, 9, 10, 12, 13, 14
+        Weight Values: 1.000000, 0.750000, 0.250000, 1.000000, 0.750000, 0.250000, 1.000000, 0.750000, 0.250000, 1.000000, 0.750000, 0.250000
+
+        Transform Translation: 0.000000, -0.000002, 0.000000
+        Transform Rotation: 0.000009, -0.000000, -0.000000
+        Transform Scaling: 1.000000, 1.000000, 1.000000
+        Transform Link Translation: -95.639915, 0.000000, -0.843867
+        Transform Link Rotation: -90.000000, -0.678019, 0.000000
+        Transform Link Scaling: 1.000000, 1.000000, 1.000000
+
+    Cluster 0
+    Mode: Normalize
+        Name: Bone002
+        Link Indices: 1, 2, 3, 5, 6, 7, 9, 10, 11, 13, 14, 15
+        Weight Values: 0.250000, 0.750000, 1.000000, 0.250000, 0.750000, 1.000000, 0.250000, 0.750000, 1.000000, 0.250000, 0.750000, 1.000000
+
+        Transform Translation: -0.000000, -0.000002, 0.000000
+        Transform Rotation: 0.000009, -0.000000, 0.000000
+        Transform Scaling: 1.000000, 1.000000, 1.000000
+        Transform Link Translation: -0.563400, 0.000000, 0.281298
+        Transform Link Rotation: -90.000000, 0.335050, 0.000000
+        Transform Link Scaling: 1.000000, 1.000000, 1.000000
+
+    Property Count: 1
+        Property 0
+            Display Name: MaxHandle
+            Internal Name: MaxHandle
+            Type: Integer
+            Min Limit: 0.000000
+            Max Limit: 0.000000
+            Is Animatable: false
+            Default Value: 2
+    Pivot Information
+        Pivot State: Reference
+        Pre-Rotation: -90.000000 -0.000000 0.000000
+        Post-Rotation: 0.000000 0.000000 0.000000
+        Rotation Pivot: 0.000000 0.000000 0.000000
+        Rotation Offset: 0.000000 0.000000 0.000000
+        Scaling Pivot: 0.000000 0.000000 0.000000
+        Scaling Offset: 0.000000 0.000000 0.000000
+    Limits Information
+        Translation limits: Inactive
+            X
+                Min Limit: Inactive
+                Min Limit Value: 0.000000
+                Max Limit: Inactive
+                Max Limit Value: 0.000000
+            Y
+                Min Limit: Inactive
+                Min Limit Value: 0.000000
+                Max Limit: Inactive
+                Max Limit Value: 0.000000
+            Z
+                Min Limit: Inactive
+                Min Limit Value: 0.000000
+                Max Limit: Inactive
+                Max Limit Value: 0.000000
+        Rotation limits: Active
+            X
+                Min Limit: Inactive
+                Min Limit Value: 0.000000
+                Max Limit: Inactive
+                Max Limit Value: 0.000000
+            Y
+                Min Limit: Inactive
+                Min Limit Value: 0.000000
+                Max Limit: Inactive
+                Max Limit Value: 0.000000
+            Z
+                Min Limit: Inactive
+                Min Limit Value: 0.000000
+                Max Limit: Inactive
+                Max Limit Value: 0.000000
+        Scaling limits: Inactive
+            X
+                Min Limit: Inactive
+                Min Limit Value: 0.000000
+                Max Limit: Inactive
+                Max Limit Value: 0.000000
+            Y
+                Min Limit: Inactive
+                Min Limit Value: 0.000000
+                Max Limit: Inactive
+                Max Limit Value: 0.000000
+            Z
+                Min Limit: Inactive
+                Min Limit Value: 0.000000
+                Max Limit: Inactive
+                Max Limit Value: 0.000000
+    Transformation Propagation
+        Rotation Space: Euler XYZ
+        Use the Rotation Space for Limit specification only: No
+        Transformation Inheritance: RSrs
+    Geometric Transformations
+        Translation: 0.000000 -0.000000 -12.500000
+        Rotation:    0.000000 0.000000 0.000000
+        Scaling:     1.000000 1.000000 1.000000
+Skeleton Name: Bone001
+    Type: Limb Node
+    Limb Node Size: 665.582214
+    Color: 0.800000 (red), 0.800000 (green), 0.800000 (blue)
+    Property Count: 1
+        Property 0
+            Display Name: MaxHandle
+            Internal Name: MaxHandle
+            Type: Integer
+            Min Limit: 0.000000
+            Max Limit: 0.000000
+            Is Animatable: false
+            Default Value: 3
+    Pivot Information
+        Pivot State: Reference
+        Pre-Rotation: -90.000000 -0.000000 0.000000
+        Post-Rotation: 0.000000 0.000000 0.000000
+        Rotation Pivot: 0.000000 0.000000 0.000000
+        Rotation Offset: 0.000000 0.000000 0.000000
+        Scaling Pivot: 0.000000 0.000000 0.000000
+        Scaling Offset: 0.000000 0.000000 0.000000
+    Limits Information
+        Translation limits: Inactive
+            X
+                Min Limit: Inactive
+                Min Limit Value: 0.000000
+                Max Limit: Inactive
+                Max Limit Value: 0.000000
+            Y
+                Min Limit: Inactive
+                Min Limit Value: 0.000000
+                Max Limit: Inactive
+                Max Limit Value: 0.000000
+            Z
+                Min Limit: Inactive
+                Min Limit Value: 0.000000
+                Max Limit: Inactive
+                Max Limit Value: 0.000000
+        Rotation limits: Active
+            X
+                Min Limit: Inactive
+                Min Limit Value: 0.000000
+                Max Limit: Inactive
+                Max Limit Value: 0.000000
+            Y
+                Min Limit: Inactive
+                Min Limit Value: 0.000000
+                Max Limit: Inactive
+                Max Limit Value: 0.000000
+            Z
+                Min Limit: Inactive
+                Min Limit Value: 0.000000
+                Max Limit: Inactive
+                Max Limit Value: 0.000000
+        Scaling limits: Inactive
+            X
+                Min Limit: Inactive
+                Min Limit Value: 0.000000
+                Max Limit: Inactive
+                Max Limit Value: 0.000000
+            Y
+                Min Limit: Inactive
+                Min Limit Value: 0.000000
+                Max Limit: Inactive
+                Max Limit Value: 0.000000
+            Z
+                Min Limit: Inactive
+                Min Limit Value: 0.000000
+                Max Limit: Inactive
+                Max Limit Value: 0.000000
+    Transformation Propagation
+        Rotation Space: Euler XYZ
+        Use the Rotation Space for Limit specification only: No
+        Transformation Inheritance: RSrs
+    Geometric Transformations
+        Translation: 0.000000 0.000000 0.000000
+        Rotation:    0.000000 0.000000 0.000000
+        Scaling:     1.000000 1.000000 1.000000
+Skeleton Name: Bone002
+    Type: Limb Node
+    Limb Node Size: 793.857910
+    Color: 0.800000 (red), 0.800000 (green), 0.800000 (blue)
+    Property Count: 1
+        Property 0
+            Display Name: MaxHandle
+            Internal Name: MaxHandle
+            Type: Integer
+            Min Limit: 0.000000
+            Max Limit: 0.000000
+            Is Animatable: false
+            Default Value: 4
+    Pivot Information
+        Pivot State: Reference
+        Pre-Rotation: 0.000000 0.000000 0.000000
+        Post-Rotation: 0.000000 0.000000 0.000000
+        Rotation Pivot: 0.000000 0.000000 0.000000
+        Rotation Offset: 0.000000 0.000000 0.000000
+        Scaling Pivot: 0.000000 0.000000 0.000000
+        Scaling Offset: 0.000000 0.000000 0.000000
+    Limits Information
+        Translation limits: Inactive
+            X
+                Min Limit: Inactive
+                Min Limit Value: 0.000000
+                Max Limit: Inactive
+                Max Limit Value: 0.000000
+            Y
+                Min Limit: Inactive
+                Min Limit Value: 0.000000
+                Max Limit: Inactive
+                Max Limit Value: 0.000000
+            Z
+                Min Limit: Inactive
+                Min Limit Value: 0.000000
+                Max Limit: Inactive
+                Max Limit Value: 0.000000
+        Rotation limits: Inactive
+            X
+                Min Limit: Inactive
+                Min Limit Value: 0.000000
+                Max Limit: Inactive
+                Max Limit Value: 0.000000
+            Y
+                Min Limit: Inactive
+                Min Limit Value: 0.000000
+                Max Limit: Inactive
+                Max Limit Value: 0.000000
+            Z
+                Min Limit: Inactive
+                Min Limit Value: 0.000000
+                Max Limit: Inactive
+                Max Limit Value: 0.000000
+        Scaling limits: Inactive
+            X
+                Min Limit: Inactive
+                Min Limit Value: 0.000000
+                Max Limit: Inactive
+                Max Limit Value: 0.000000
+            Y
+                Min Limit: Inactive
+                Min Limit Value: 0.000000
+                Max Limit: Inactive
+                Max Limit Value: 0.000000
+            Z
+                Min Limit: Inactive
+                Min Limit Value: 0.000000
+                Max Limit: Inactive
+                Max Limit Value: 0.000000
+    Transformation Propagation
+        Rotation Space: Euler XYZ
+        Use the Rotation Space for Limit specification only: No
+        Transformation Inheritance: RSrs
+    Geometric Transformations
+        Translation: 0.000000 0.000000 0.000000
+        Rotation:    0.000000 0.000000 0.000000
+        Scaling:     1.000000 1.000000 1.000000
+
+
+----
+Pose
+----
+
+Pose Name: BIND_POSES
+    Is a bind pose: true
+    Number of items in the pose: 1
+
+    Item name: Tentacle
+    Matrix value: 
+           1.0000    0.0000    0.0000    0.0000
+           0.0000    1.0000    0.0000    0.0000
+           0.0000   -0.0000    1.0000    0.0000
+           0.0000   -0.0000    0.0000    1.0000
+
+
+
+---------
+Animation
+---------
+
+Animation Stack Name: Take 001
+   contains 1 Animation Layer
+
+AnimLayer 0
+     Node Name: RootNode
+
+
+     Node Name: Tentacle
+
+
+     Node Name: Bone001
+
+
+     Node Name: Bone002
+
+        RX
+            Key Time: 0.... Key Value: 0.000000 [ cubic | Auto | None | None ]
+            Key Time: 30.... Key Value: 0.000000 [ cubic | Auto | None | None ]
+            Key Time: 60.... Key Value: 0.000000 [ cubic | Auto | None | None ]
+        RY
+            Key Time: 0.... Key Value: -40.000000 [ linear ]
+            Key Time: 1.... Key Value: -34.755550 [ linear ]
+            Key Time: 2.... Key Value: -29.688890 [ linear ]
+            Key Time: 3.... Key Value: -24.799999 [ linear ]
+            Key Time: 4.... Key Value: -20.088890 [ linear ]
+            Key Time: 5.... Key Value: -15.555560 [ linear ]
+            Key Time: 6.... Key Value: -11.200000 [ linear ]
+            Key Time: 7.... Key Value: -7.022223 [ linear ]
+            Key Time: 8.... Key Value: -3.022223 [ linear ]
+            Key Time: 9.... Key Value: 0.800000 [ linear ]
+            Key Time: 10.... Key Value: 4.444446 [ linear ]
+            Key Time: 11.... Key Value: 7.911111 [ linear ]
+            Key Time: 12.... Key Value: 11.200000 [ linear ]
+            Key Time: 13.... Key Value: 14.311110 [ linear ]
+            Key Time: 14.... Key Value: 17.244450 [ linear ]
+            Key Time: 15.... Key Value: 20.000000 [ linear ]
+            Key Time: 16.... Key Value: 22.577780 [ linear ]
+            Key Time: 17.... Key Value: 24.977779 [ linear ]
+            Key Time: 18.... Key Value: 27.200001 [ linear ]
+            Key Time: 19.... Key Value: 29.244450 [ linear ]
+            Key Time: 20.... Key Value: 31.111111 [ linear ]
+            Key Time: 21.... Key Value: 32.799999 [ linear ]
+            Key Time: 22.... Key Value: 34.311111 [ linear ]
+            Key Time: 23.... Key Value: 35.644451 [ linear ]
+            Key Time: 24.... Key Value: 36.799999 [ linear ]
+            Key Time: 25.... Key Value: 37.777779 [ linear ]
+            Key Time: 26.... Key Value: 38.577782 [ linear ]
+            Key Time: 27.... Key Value: 39.200001 [ linear ]
+            Key Time: 28.... Key Value: 39.644451 [ linear ]
+            Key Time: 29.... Key Value: 39.911110 [ linear ]
+            Key Time: 30.... Key Value: 40.000000 [ linear ]
+            Key Time: 31.... Key Value: 34.755562 [ linear ]
+            Key Time: 32.... Key Value: 29.688890 [ linear ]
+            Key Time: 33.... Key Value: 24.799999 [ linear ]
+            Key Time: 34.... Key Value: 20.088890 [ linear ]
+            Key Time: 35.... Key Value: 15.555560 [ linear ]
+            Key Time: 36.... Key Value: 11.200000 [ linear ]
+            Key Time: 37.... Key Value: 7.022223 [ linear ]
+            Key Time: 38.... Key Value: 3.022222 [ linear ]
+            Key Time: 39.... Key Value: -0.800001 [ linear ]
+            Key Time: 40.... Key Value: -4.444445 [ linear ]
+            Key Time: 41.... Key Value: -7.911112 [ linear ]
+            Key Time: 42.... Key Value: -11.200000 [ linear ]
+            Key Time: 43.... Key Value: -14.311110 [ linear ]
+            Key Time: 44.... Key Value: -17.244450 [ linear ]
+            Key Time: 45.... Key Value: -20.000000 [ linear ]
+            Key Time: 46.... Key Value: -22.577780 [ linear ]
+            Key Time: 47.... Key Value: -24.977779 [ linear ]
+            Key Time: 48.... Key Value: -27.200001 [ linear ]
+            Key Time: 49.... Key Value: -29.244450 [ linear ]
+            Key Time: 50.... Key Value: -31.111111 [ linear ]
+            Key Time: 51.... Key Value: -32.799999 [ linear ]
+            Key Time: 52.... Key Value: -34.311119 [ linear ]
+            Key Time: 53.... Key Value: -35.644451 [ linear ]
+            Key Time: 54.... Key Value: -36.799999 [ linear ]
+            Key Time: 55.... Key Value: -37.777779 [ linear ]
+            Key Time: 56.... Key Value: -38.577782 [ linear ]
+            Key Time: 57.... Key Value: -39.200001 [ linear ]
+            Key Time: 58.... Key Value: -39.644451 [ linear ]
+            Key Time: 59.... Key Value: -39.911110 [ linear ]
+            Key Time: 60.... Key Value: -40.000000 [ linear ]
+        RZ
+            Key Time: 0.... Key Value: 1.013070 [ cubic | Auto | None | None ]
+            Key Time: 30.... Key Value: 1.013070 [ cubic | Auto | None | None ]
+            Key Time: 60.... Key Value: 1.013070 [ cubic | Auto | None | None ]
+        SX
+            Key Time: 0.... Key Value: 1.178819 [ cubic | User | None | None ]
+            Key Time: 15.... Key Value: 0.722470 [ cubic | User | None | None ]
+            Key Time: 30.... Key Value: 1.178819 [ cubic | User | None | None ]
+            Key Time: 45.... Key Value: 0.722470 [ cubic | User | None | None ]
+            Key Time: 60.... Key Value: 1.178819 [ cubic | User | None | None ]
+        SY
+            Key Time: 0.... Key Value: 0.848307 [ cubic | User | None | None ]
+            Key Time: 15.... Key Value: 1.384140 [ cubic | User | None | None ]
+            Key Time: 30.... Key Value: 0.848307 [ cubic | User | None | None ]
+            Key Time: 45.... Key Value: 1.384140 [ cubic | User | None | None ]
+            Key Time: 60.... Key Value: 0.848307 [ cubic | User | None | None ]
+        SZ
+            Key Time: 0.... Key Value: 0.848307 [ cubic | User | None | None ]
+            Key Time: 15.... Key Value: 1.384140 [ cubic | User | None | None ]
+            Key Time: 30.... Key Value: 0.848307 [ cubic | User | None | None ]
+            Key Time: 45.... Key Value: 1.384140 [ cubic | User | None | None ]
+            Key Time: 60.... Key Value: 0.848307 [ cubic | User | None | None ]
+
+
+
+---------
+Generic Information
+---------
+
+Tentacle
+
+Name: Tentacle
+    Property Count: 72
+        Property 0
+            Display Name: QuaternionInterpolate
+            Internal Name: QuaternionInterpolate
+            Type: Enum
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 1
+            Display Name: RotationOffset
+            Internal Name: RotationOffset
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 2
+            Display Name: RotationPivot
+            Internal Name: RotationPivot
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 3
+            Display Name: ScalingOffset
+            Internal Name: ScalingOffset
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 4
+            Display Name: ScalingPivot
+            Internal Name: ScalingPivot
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 5
+            Display Name: TranslationActive
+            Internal Name: TranslationActive
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 6
+            Display Name: TranslationMin
+            Internal Name: TranslationMin
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 7
+            Display Name: TranslationMax
+            Internal Name: TranslationMax
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 8
+            Display Name: TranslationMinX
+            Internal Name: TranslationMinX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 9
+            Display Name: TranslationMinY
+            Internal Name: TranslationMinY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 10
+            Display Name: TranslationMinZ
+            Internal Name: TranslationMinZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 11
+            Display Name: TranslationMaxX
+            Internal Name: TranslationMaxX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 12
+            Display Name: TranslationMaxY
+            Internal Name: TranslationMaxY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 13
+            Display Name: TranslationMaxZ
+            Internal Name: TranslationMaxZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 14
+            Display Name: RotationOrder
+            Internal Name: RotationOrder
+            Type: Enum
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 15
+            Display Name: RotationSpaceForLimitOnly
+            Internal Name: RotationSpaceForLimitOnly
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 16
+            Display Name: RotationStiffnessX
+            Internal Name: RotationStiffnessX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 17
+            Display Name: RotationStiffnessY
+            Internal Name: RotationStiffnessY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 18
+            Display Name: RotationStiffnessZ
+            Internal Name: RotationStiffnessZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 19
+            Display Name: AxisLen
+            Internal Name: AxisLen
+            Type: Number
+            Is Animatable: false
+            Default Value: 10.000000
+        Property 20
+            Display Name: PreRotation
+            Internal Name: PreRotation
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=-90, Y=-0, Z=0
+        Property 21
+            Display Name: PostRotation
+            Internal Name: PostRotation
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 22
+            Display Name: RotationActive
+            Internal Name: RotationActive
+            Type: Bool
+            Is Animatable: false
+            Default Value: true
+        Property 23
+            Display Name: RotationMin
+            Internal Name: RotationMin
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 24
+            Display Name: RotationMax
+            Internal Name: RotationMax
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 25
+            Display Name: RotationMinX
+            Internal Name: RotationMinX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 26
+            Display Name: RotationMinY
+            Internal Name: RotationMinY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 27
+            Display Name: RotationMinZ
+            Internal Name: RotationMinZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 28
+            Display Name: RotationMaxX
+            Internal Name: RotationMaxX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 29
+            Display Name: RotationMaxY
+            Internal Name: RotationMaxY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 30
+            Display Name: RotationMaxZ
+            Internal Name: RotationMaxZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 31
+            Display Name: InheritType
+            Internal Name: InheritType
+            Type: Enum
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 32
+            Display Name: ScalingActive
+            Internal Name: ScalingActive
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 33
+            Display Name: ScalingMin
+            Internal Name: ScalingMin
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 34
+            Display Name: ScalingMax
+            Internal Name: ScalingMax
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 35
+            Display Name: ScalingMinX
+            Internal Name: ScalingMinX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 36
+            Display Name: ScalingMinY
+            Internal Name: ScalingMinY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 37
+            Display Name: ScalingMinZ
+            Internal Name: ScalingMinZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 38
+            Display Name: ScalingMaxX
+            Internal Name: ScalingMaxX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 39
+            Display Name: ScalingMaxY
+            Internal Name: ScalingMaxY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 40
+            Display Name: ScalingMaxZ
+            Internal Name: ScalingMaxZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 41
+            Display Name: GeometricTranslation
+            Internal Name: GeometricTranslation
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=-1.13687e-13, Z=-12.5
+        Property 42
+            Display Name: GeometricRotation
+            Internal Name: GeometricRotation
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 43
+            Display Name: GeometricScaling
+            Internal Name: GeometricScaling
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=1, Y=1, Z=1
+        Property 44
+            Display Name: MinDampRangeX
+            Internal Name: MinDampRangeX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 45
+            Display Name: MinDampRangeY
+            Internal Name: MinDampRangeY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 46
+            Display Name: MinDampRangeZ
+            Internal Name: MinDampRangeZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 47
+            Display Name: MaxDampRangeX
+            Internal Name: MaxDampRangeX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 48
+            Display Name: MaxDampRangeY
+            Internal Name: MaxDampRangeY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 49
+            Display Name: MaxDampRangeZ
+            Internal Name: MaxDampRangeZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 50
+            Display Name: MinDampStrengthX
+            Internal Name: MinDampStrengthX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 51
+            Display Name: MinDampStrengthY
+            Internal Name: MinDampStrengthY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 52
+            Display Name: MinDampStrengthZ
+            Internal Name: MinDampStrengthZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 53
+            Display Name: MaxDampStrengthX
+            Internal Name: MaxDampStrengthX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 54
+            Display Name: MaxDampStrengthY
+            Internal Name: MaxDampStrengthY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 55
+            Display Name: MaxDampStrengthZ
+            Internal Name: MaxDampStrengthZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 56
+            Display Name: PreferedAngleX
+            Internal Name: PreferedAngleX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 57
+            Display Name: PreferedAngleY
+            Internal Name: PreferedAngleY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 58
+            Display Name: PreferedAngleZ
+            Internal Name: PreferedAngleZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 59
+            Display Name: LookAtProperty
+            Internal Name: LookAtProperty
+            Type: object
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 60
+            Display Name: UpVectorProperty
+            Internal Name: UpVectorProperty
+            Type: object
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 61
+            Display Name: Show
+            Internal Name: Show
+            Type: Bool
+            Is Animatable: false
+            Default Value: true
+        Property 62
+            Display Name: NegativePercentShapeSupport
+            Internal Name: NegativePercentShapeSupport
+            Type: Bool
+            Is Animatable: false
+            Default Value: true
+        Property 63
+            Display Name: DefaultAttributeIndex
+            Internal Name: DefaultAttributeIndex
+            Type: Integer
+            Is Animatable: false
+            Default Value: 0
+        Property 64
+            Display Name: Freeze
+            Internal Name: Freeze
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 65
+            Display Name: LODBox
+            Internal Name: LODBox
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 66
+            Display Name: Lcl Translation
+            Internal Name: Lcl Translation
+            Type: Lcl Translation
+            Is Animatable: true
+            Default Value: X=0, Y=-2.03651e-06, Z=-0
+        Property 67
+            Display Name: Lcl Rotation
+            Internal Name: Lcl Rotation
+            Type: Lcl Rotation
+            Is Animatable: true
+            Default Value: X=90, Y=-0, Z=0
+        Property 68
+            Display Name: Lcl Scaling
+            Internal Name: Lcl Scaling
+            Type: Lcl Scaling
+            Is Animatable: true
+            Default Value: X=1, Y=1, Z=1
+        Property 69
+            Display Name: Visibility
+            Internal Name: Visibility
+            Type: Visibility
+            Is Animatable: true
+            Default Value: 1.000000
+        Property 70
+            Display Name: Visibility Inheritance
+            Internal Name: Visibility Inheritance
+            Type: Visibility Inheritance
+            Is Animatable: false
+            Default Value: true
+        Property 71
+            Display Name: MaxHandle
+            Internal Name: MaxHandle
+            Type: Integer
+            Min Limit: 0.000000
+            Max Limit: 0.000000
+            Is Animatable: false
+            Default Value: 2
+
+Bone001
+
+Name: Bone001
+    Property Count: 72
+        Property 0
+            Display Name: QuaternionInterpolate
+            Internal Name: QuaternionInterpolate
+            Type: Enum
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 1
+            Display Name: RotationOffset
+            Internal Name: RotationOffset
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 2
+            Display Name: RotationPivot
+            Internal Name: RotationPivot
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 3
+            Display Name: ScalingOffset
+            Internal Name: ScalingOffset
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 4
+            Display Name: ScalingPivot
+            Internal Name: ScalingPivot
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 5
+            Display Name: TranslationActive
+            Internal Name: TranslationActive
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 6
+            Display Name: TranslationMin
+            Internal Name: TranslationMin
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 7
+            Display Name: TranslationMax
+            Internal Name: TranslationMax
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 8
+            Display Name: TranslationMinX
+            Internal Name: TranslationMinX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 9
+            Display Name: TranslationMinY
+            Internal Name: TranslationMinY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 10
+            Display Name: TranslationMinZ
+            Internal Name: TranslationMinZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 11
+            Display Name: TranslationMaxX
+            Internal Name: TranslationMaxX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 12
+            Display Name: TranslationMaxY
+            Internal Name: TranslationMaxY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 13
+            Display Name: TranslationMaxZ
+            Internal Name: TranslationMaxZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 14
+            Display Name: RotationOrder
+            Internal Name: RotationOrder
+            Type: Enum
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 15
+            Display Name: RotationSpaceForLimitOnly
+            Internal Name: RotationSpaceForLimitOnly
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 16
+            Display Name: RotationStiffnessX
+            Internal Name: RotationStiffnessX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 17
+            Display Name: RotationStiffnessY
+            Internal Name: RotationStiffnessY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 18
+            Display Name: RotationStiffnessZ
+            Internal Name: RotationStiffnessZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 19
+            Display Name: AxisLen
+            Internal Name: AxisLen
+            Type: Number
+            Is Animatable: false
+            Default Value: 10.000000
+        Property 20
+            Display Name: PreRotation
+            Internal Name: PreRotation
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=-90, Y=-0, Z=0
+        Property 21
+            Display Name: PostRotation
+            Internal Name: PostRotation
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 22
+            Display Name: RotationActive
+            Internal Name: RotationActive
+            Type: Bool
+            Is Animatable: false
+            Default Value: true
+        Property 23
+            Display Name: RotationMin
+            Internal Name: RotationMin
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 24
+            Display Name: RotationMax
+            Internal Name: RotationMax
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 25
+            Display Name: RotationMinX
+            Internal Name: RotationMinX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 26
+            Display Name: RotationMinY
+            Internal Name: RotationMinY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 27
+            Display Name: RotationMinZ
+            Internal Name: RotationMinZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 28
+            Display Name: RotationMaxX
+            Internal Name: RotationMaxX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 29
+            Display Name: RotationMaxY
+            Internal Name: RotationMaxY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 30
+            Display Name: RotationMaxZ
+            Internal Name: RotationMaxZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 31
+            Display Name: InheritType
+            Internal Name: InheritType
+            Type: Enum
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 32
+            Display Name: ScalingActive
+            Internal Name: ScalingActive
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 33
+            Display Name: ScalingMin
+            Internal Name: ScalingMin
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 34
+            Display Name: ScalingMax
+            Internal Name: ScalingMax
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 35
+            Display Name: ScalingMinX
+            Internal Name: ScalingMinX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 36
+            Display Name: ScalingMinY
+            Internal Name: ScalingMinY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 37
+            Display Name: ScalingMinZ
+            Internal Name: ScalingMinZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 38
+            Display Name: ScalingMaxX
+            Internal Name: ScalingMaxX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 39
+            Display Name: ScalingMaxY
+            Internal Name: ScalingMaxY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 40
+            Display Name: ScalingMaxZ
+            Internal Name: ScalingMaxZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 41
+            Display Name: GeometricTranslation
+            Internal Name: GeometricTranslation
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 42
+            Display Name: GeometricRotation
+            Internal Name: GeometricRotation
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 43
+            Display Name: GeometricScaling
+            Internal Name: GeometricScaling
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=1, Y=1, Z=1
+        Property 44
+            Display Name: MinDampRangeX
+            Internal Name: MinDampRangeX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 45
+            Display Name: MinDampRangeY
+            Internal Name: MinDampRangeY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 46
+            Display Name: MinDampRangeZ
+            Internal Name: MinDampRangeZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 47
+            Display Name: MaxDampRangeX
+            Internal Name: MaxDampRangeX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 48
+            Display Name: MaxDampRangeY
+            Internal Name: MaxDampRangeY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 49
+            Display Name: MaxDampRangeZ
+            Internal Name: MaxDampRangeZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 50
+            Display Name: MinDampStrengthX
+            Internal Name: MinDampStrengthX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 51
+            Display Name: MinDampStrengthY
+            Internal Name: MinDampStrengthY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 52
+            Display Name: MinDampStrengthZ
+            Internal Name: MinDampStrengthZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 53
+            Display Name: MaxDampStrengthX
+            Internal Name: MaxDampStrengthX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 54
+            Display Name: MaxDampStrengthY
+            Internal Name: MaxDampStrengthY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 55
+            Display Name: MaxDampStrengthZ
+            Internal Name: MaxDampStrengthZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 56
+            Display Name: PreferedAngleX
+            Internal Name: PreferedAngleX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 57
+            Display Name: PreferedAngleY
+            Internal Name: PreferedAngleY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 58
+            Display Name: PreferedAngleZ
+            Internal Name: PreferedAngleZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 59
+            Display Name: LookAtProperty
+            Internal Name: LookAtProperty
+            Type: object
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 60
+            Display Name: UpVectorProperty
+            Internal Name: UpVectorProperty
+            Type: object
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 61
+            Display Name: Show
+            Internal Name: Show
+            Type: Bool
+            Is Animatable: false
+            Default Value: true
+        Property 62
+            Display Name: NegativePercentShapeSupport
+            Internal Name: NegativePercentShapeSupport
+            Type: Bool
+            Is Animatable: false
+            Default Value: true
+        Property 63
+            Display Name: DefaultAttributeIndex
+            Internal Name: DefaultAttributeIndex
+            Type: Integer
+            Is Animatable: false
+            Default Value: 0
+        Property 64
+            Display Name: Freeze
+            Internal Name: Freeze
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 65
+            Display Name: LODBox
+            Internal Name: LODBox
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 66
+            Display Name: Lcl Translation
+            Internal Name: Lcl Translation
+            Type: Lcl Translation
+            Is Animatable: true
+            Default Value: X=0, Y=0, Z=0
+        Property 67
+            Display Name: Lcl Rotation
+            Internal Name: Lcl Rotation
+            Type: Lcl Rotation
+            Is Animatable: true
+            Default Value: X=-0.678019, Y=-90, Z=0
+        Property 68
+            Display Name: Lcl Scaling
+            Internal Name: Lcl Scaling
+            Type: Lcl Scaling
+            Is Animatable: true
+            Default Value: X=1, Y=1, Z=1
+        Property 69
+            Display Name: Visibility
+            Internal Name: Visibility
+            Type: Visibility
+            Is Animatable: true
+            Default Value: 1.000000
+        Property 70
+            Display Name: Visibility Inheritance
+            Internal Name: Visibility Inheritance
+            Type: Visibility Inheritance
+            Is Animatable: false
+            Default Value: true
+        Property 71
+            Display Name: MaxHandle
+            Internal Name: MaxHandle
+            Type: Integer
+            Min Limit: 0.000000
+            Max Limit: 0.000000
+            Is Animatable: false
+            Default Value: 3
+
+     Bone002
+
+Name: Bone002
+    Property Count: 72
+        Property 0
+            Display Name: QuaternionInterpolate
+            Internal Name: QuaternionInterpolate
+            Type: Enum
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 1
+            Display Name: RotationOffset
+            Internal Name: RotationOffset
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 2
+            Display Name: RotationPivot
+            Internal Name: RotationPivot
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 3
+            Display Name: ScalingOffset
+            Internal Name: ScalingOffset
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 4
+            Display Name: ScalingPivot
+            Internal Name: ScalingPivot
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 5
+            Display Name: TranslationActive
+            Internal Name: TranslationActive
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 6
+            Display Name: TranslationMin
+            Internal Name: TranslationMin
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 7
+            Display Name: TranslationMax
+            Internal Name: TranslationMax
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 8
+            Display Name: TranslationMinX
+            Internal Name: TranslationMinX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 9
+            Display Name: TranslationMinY
+            Internal Name: TranslationMinY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 10
+            Display Name: TranslationMinZ
+            Internal Name: TranslationMinZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 11
+            Display Name: TranslationMaxX
+            Internal Name: TranslationMaxX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 12
+            Display Name: TranslationMaxY
+            Internal Name: TranslationMaxY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 13
+            Display Name: TranslationMaxZ
+            Internal Name: TranslationMaxZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 14
+            Display Name: RotationOrder
+            Internal Name: RotationOrder
+            Type: Enum
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 15
+            Display Name: RotationSpaceForLimitOnly
+            Internal Name: RotationSpaceForLimitOnly
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 16
+            Display Name: RotationStiffnessX
+            Internal Name: RotationStiffnessX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 17
+            Display Name: RotationStiffnessY
+            Internal Name: RotationStiffnessY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 18
+            Display Name: RotationStiffnessZ
+            Internal Name: RotationStiffnessZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 19
+            Display Name: AxisLen
+            Internal Name: AxisLen
+            Type: Number
+            Is Animatable: false
+            Default Value: 10.000000
+        Property 20
+            Display Name: PreRotation
+            Internal Name: PreRotation
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 21
+            Display Name: PostRotation
+            Internal Name: PostRotation
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 22
+            Display Name: RotationActive
+            Internal Name: RotationActive
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 23
+            Display Name: RotationMin
+            Internal Name: RotationMin
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 24
+            Display Name: RotationMax
+            Internal Name: RotationMax
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 25
+            Display Name: RotationMinX
+            Internal Name: RotationMinX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 26
+            Display Name: RotationMinY
+            Internal Name: RotationMinY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 27
+            Display Name: RotationMinZ
+            Internal Name: RotationMinZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 28
+            Display Name: RotationMaxX
+            Internal Name: RotationMaxX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 29
+            Display Name: RotationMaxY
+            Internal Name: RotationMaxY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 30
+            Display Name: RotationMaxZ
+            Internal Name: RotationMaxZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 31
+            Display Name: InheritType
+            Internal Name: InheritType
+            Type: Enum
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 32
+            Display Name: ScalingActive
+            Internal Name: ScalingActive
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 33
+            Display Name: ScalingMin
+            Internal Name: ScalingMin
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 34
+            Display Name: ScalingMax
+            Internal Name: ScalingMax
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 35
+            Display Name: ScalingMinX
+            Internal Name: ScalingMinX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 36
+            Display Name: ScalingMinY
+            Internal Name: ScalingMinY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 37
+            Display Name: ScalingMinZ
+            Internal Name: ScalingMinZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 38
+            Display Name: ScalingMaxX
+            Internal Name: ScalingMaxX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 39
+            Display Name: ScalingMaxY
+            Internal Name: ScalingMaxY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 40
+            Display Name: ScalingMaxZ
+            Internal Name: ScalingMaxZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 41
+            Display Name: GeometricTranslation
+            Internal Name: GeometricTranslation
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 42
+            Display Name: GeometricRotation
+            Internal Name: GeometricRotation
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 43
+            Display Name: GeometricScaling
+            Internal Name: GeometricScaling
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=1, Y=1, Z=1
+        Property 44
+            Display Name: MinDampRangeX
+            Internal Name: MinDampRangeX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 45
+            Display Name: MinDampRangeY
+            Internal Name: MinDampRangeY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 46
+            Display Name: MinDampRangeZ
+            Internal Name: MinDampRangeZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 47
+            Display Name: MaxDampRangeX
+            Internal Name: MaxDampRangeX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 48
+            Display Name: MaxDampRangeY
+            Internal Name: MaxDampRangeY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 49
+            Display Name: MaxDampRangeZ
+            Internal Name: MaxDampRangeZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 50
+            Display Name: MinDampStrengthX
+            Internal Name: MinDampStrengthX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 51
+            Display Name: MinDampStrengthY
+            Internal Name: MinDampStrengthY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 52
+            Display Name: MinDampStrengthZ
+            Internal Name: MinDampStrengthZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 53
+            Display Name: MaxDampStrengthX
+            Internal Name: MaxDampStrengthX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 54
+            Display Name: MaxDampStrengthY
+            Internal Name: MaxDampStrengthY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 55
+            Display Name: MaxDampStrengthZ
+            Internal Name: MaxDampStrengthZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 56
+            Display Name: PreferedAngleX
+            Internal Name: PreferedAngleX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 57
+            Display Name: PreferedAngleY
+            Internal Name: PreferedAngleY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 58
+            Display Name: PreferedAngleZ
+            Internal Name: PreferedAngleZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 59
+            Display Name: LookAtProperty
+            Internal Name: LookAtProperty
+            Type: object
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 60
+            Display Name: UpVectorProperty
+            Internal Name: UpVectorProperty
+            Type: object
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 61
+            Display Name: Show
+            Internal Name: Show
+            Type: Bool
+            Is Animatable: false
+            Default Value: true
+        Property 62
+            Display Name: NegativePercentShapeSupport
+            Internal Name: NegativePercentShapeSupport
+            Type: Bool
+            Is Animatable: false
+            Default Value: true
+        Property 63
+            Display Name: DefaultAttributeIndex
+            Internal Name: DefaultAttributeIndex
+            Type: Integer
+            Is Animatable: false
+            Default Value: 0
+        Property 64
+            Display Name: Freeze
+            Internal Name: Freeze
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 65
+            Display Name: LODBox
+            Internal Name: LODBox
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 66
+            Display Name: Lcl Translation
+            Internal Name: Lcl Translation
+            Type: Lcl Translation
+            Is Animatable: true
+            Default Value: X=95.0832, Y=-9.32813e-06, Z=0
+        Property 67
+            Display Name: Lcl Rotation
+            Internal Name: Lcl Rotation
+            Type: Lcl Rotation
+            Is Animatable: true
+            Default Value: X=5.7804e-08, Y=-40, Z=1.01307
+        Property 68
+            Display Name: Lcl Scaling
+            Internal Name: Lcl Scaling
+            Type: Lcl Scaling
+            Is Animatable: true
+            Default Value: X=1.17882, Y=0.848307, Z=0.848307
+        Property 69
+            Display Name: Visibility
+            Internal Name: Visibility
+            Type: Visibility
+            Is Animatable: true
+            Default Value: 1.000000
+        Property 70
+            Display Name: Visibility Inheritance
+            Internal Name: Visibility Inheritance
+            Type: Visibility Inheritance
+            Is Animatable: false
+            Default Value: true
+        Property 71
+            Display Name: MaxHandle
+            Internal Name: MaxHandle
+            Type: Integer
+            Min Limit: 0.000000
+            Max Limit: 0.000000
+            Is Animatable: false
+            Default Value: 4
+
+Name: RootNode
+    Property Count: 71
+        Property 0
+            Display Name: QuaternionInterpolate
+            Internal Name: QuaternionInterpolate
+            Type: Enum
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 1
+            Display Name: RotationOffset
+            Internal Name: RotationOffset
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 2
+            Display Name: RotationPivot
+            Internal Name: RotationPivot
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 3
+            Display Name: ScalingOffset
+            Internal Name: ScalingOffset
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 4
+            Display Name: ScalingPivot
+            Internal Name: ScalingPivot
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 5
+            Display Name: TranslationActive
+            Internal Name: TranslationActive
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 6
+            Display Name: TranslationMin
+            Internal Name: TranslationMin
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 7
+            Display Name: TranslationMax
+            Internal Name: TranslationMax
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 8
+            Display Name: TranslationMinX
+            Internal Name: TranslationMinX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 9
+            Display Name: TranslationMinY
+            Internal Name: TranslationMinY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 10
+            Display Name: TranslationMinZ
+            Internal Name: TranslationMinZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 11
+            Display Name: TranslationMaxX
+            Internal Name: TranslationMaxX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 12
+            Display Name: TranslationMaxY
+            Internal Name: TranslationMaxY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 13
+            Display Name: TranslationMaxZ
+            Internal Name: TranslationMaxZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 14
+            Display Name: RotationOrder
+            Internal Name: RotationOrder
+            Type: Enum
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 15
+            Display Name: RotationSpaceForLimitOnly
+            Internal Name: RotationSpaceForLimitOnly
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 16
+            Display Name: RotationStiffnessX
+            Internal Name: RotationStiffnessX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 17
+            Display Name: RotationStiffnessY
+            Internal Name: RotationStiffnessY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 18
+            Display Name: RotationStiffnessZ
+            Internal Name: RotationStiffnessZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 19
+            Display Name: AxisLen
+            Internal Name: AxisLen
+            Type: Number
+            Is Animatable: false
+            Default Value: 10.000000
+        Property 20
+            Display Name: PreRotation
+            Internal Name: PreRotation
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 21
+            Display Name: PostRotation
+            Internal Name: PostRotation
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 22
+            Display Name: RotationActive
+            Internal Name: RotationActive
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 23
+            Display Name: RotationMin
+            Internal Name: RotationMin
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 24
+            Display Name: RotationMax
+            Internal Name: RotationMax
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 25
+            Display Name: RotationMinX
+            Internal Name: RotationMinX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 26
+            Display Name: RotationMinY
+            Internal Name: RotationMinY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 27
+            Display Name: RotationMinZ
+            Internal Name: RotationMinZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 28
+            Display Name: RotationMaxX
+            Internal Name: RotationMaxX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 29
+            Display Name: RotationMaxY
+            Internal Name: RotationMaxY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 30
+            Display Name: RotationMaxZ
+            Internal Name: RotationMaxZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 31
+            Display Name: InheritType
+            Internal Name: InheritType
+            Type: Enum
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 32
+            Display Name: ScalingActive
+            Internal Name: ScalingActive
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 33
+            Display Name: ScalingMin
+            Internal Name: ScalingMin
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 34
+            Display Name: ScalingMax
+            Internal Name: ScalingMax
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=1, Y=1, Z=1
+        Property 35
+            Display Name: ScalingMinX
+            Internal Name: ScalingMinX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 36
+            Display Name: ScalingMinY
+            Internal Name: ScalingMinY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 37
+            Display Name: ScalingMinZ
+            Internal Name: ScalingMinZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 38
+            Display Name: ScalingMaxX
+            Internal Name: ScalingMaxX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 39
+            Display Name: ScalingMaxY
+            Internal Name: ScalingMaxY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 40
+            Display Name: ScalingMaxZ
+            Internal Name: ScalingMaxZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 41
+            Display Name: GeometricTranslation
+            Internal Name: GeometricTranslation
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 42
+            Display Name: GeometricRotation
+            Internal Name: GeometricRotation
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 43
+            Display Name: GeometricScaling
+            Internal Name: GeometricScaling
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=1, Y=1, Z=1
+        Property 44
+            Display Name: MinDampRangeX
+            Internal Name: MinDampRangeX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 45
+            Display Name: MinDampRangeY
+            Internal Name: MinDampRangeY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 46
+            Display Name: MinDampRangeZ
+            Internal Name: MinDampRangeZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 47
+            Display Name: MaxDampRangeX
+            Internal Name: MaxDampRangeX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 48
+            Display Name: MaxDampRangeY
+            Internal Name: MaxDampRangeY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 49
+            Display Name: MaxDampRangeZ
+            Internal Name: MaxDampRangeZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 50
+            Display Name: MinDampStrengthX
+            Internal Name: MinDampStrengthX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 51
+            Display Name: MinDampStrengthY
+            Internal Name: MinDampStrengthY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 52
+            Display Name: MinDampStrengthZ
+            Internal Name: MinDampStrengthZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 53
+            Display Name: MaxDampStrengthX
+            Internal Name: MaxDampStrengthX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 54
+            Display Name: MaxDampStrengthY
+            Internal Name: MaxDampStrengthY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 55
+            Display Name: MaxDampStrengthZ
+            Internal Name: MaxDampStrengthZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 56
+            Display Name: PreferedAngleX
+            Internal Name: PreferedAngleX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 57
+            Display Name: PreferedAngleY
+            Internal Name: PreferedAngleY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 58
+            Display Name: PreferedAngleZ
+            Internal Name: PreferedAngleZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 59
+            Display Name: LookAtProperty
+            Internal Name: LookAtProperty
+            Type: object
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 60
+            Display Name: UpVectorProperty
+            Internal Name: UpVectorProperty
+            Type: object
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 61
+            Display Name: Show
+            Internal Name: Show
+            Type: Bool
+            Is Animatable: false
+            Default Value: true
+        Property 62
+            Display Name: NegativePercentShapeSupport
+            Internal Name: NegativePercentShapeSupport
+            Type: Bool
+            Is Animatable: false
+            Default Value: true
+        Property 63
+            Display Name: DefaultAttributeIndex
+            Internal Name: DefaultAttributeIndex
+            Type: Integer
+            Is Animatable: false
+            Default Value: -1
+        Property 64
+            Display Name: Freeze
+            Internal Name: Freeze
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 65
+            Display Name: LODBox
+            Internal Name: LODBox
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 66
+            Display Name: Lcl Translation
+            Internal Name: Lcl Translation
+            Type: Lcl Translation
+            Is Animatable: true
+            Default Value: X=0, Y=0, Z=0
+        Property 67
+            Display Name: Lcl Rotation
+            Internal Name: Lcl Rotation
+            Type: Lcl Rotation
+            Is Animatable: true
+            Default Value: X=0, Y=0, Z=0
+        Property 68
+            Display Name: Lcl Scaling
+            Internal Name: Lcl Scaling
+            Type: Lcl Scaling
+            Is Animatable: true
+            Default Value: X=1, Y=1, Z=1
+        Property 69
+            Display Name: Visibility
+            Internal Name: Visibility
+            Type: Visibility
+            Is Animatable: true
+            Default Value: 1.000000
+        Property 70
+            Display Name: Visibility Inheritance
+            Internal Name: Visibility Inheritance
+            Type: Visibility Inheritance
+            Is Animatable: false
+            Default Value: true
+Name: FbxSdkSceneEvaluator
+Name: GlobalSettings
+    Property Count: 20
+        Property 0
+            Display Name: UpAxis
+            Internal Name: UpAxis
+            Type: Integer
+            Is Animatable: false
+            Default Value: 1
+        Property 1
+            Display Name: UpAxisSign
+            Internal Name: UpAxisSign
+            Type: Integer
+            Is Animatable: false
+            Default Value: 1
+        Property 2
+            Display Name: FrontAxis
+            Internal Name: FrontAxis
+            Type: Integer
+            Is Animatable: false
+            Default Value: 2
+        Property 3
+            Display Name: FrontAxisSign
+            Internal Name: FrontAxisSign
+            Type: Integer
+            Is Animatable: false
+            Default Value: 1
+        Property 4
+            Display Name: CoordAxis
+            Internal Name: CoordAxis
+            Type: Integer
+            Is Animatable: false
+            Default Value: 0
+        Property 5
+            Display Name: CoordAxisSign
+            Internal Name: CoordAxisSign
+            Type: Integer
+            Is Animatable: false
+            Default Value: 1
+        Property 6
+            Display Name: OriginalUpAxis
+            Internal Name: OriginalUpAxis
+            Type: Integer
+            Is Animatable: false
+            Default Value: 2
+        Property 7
+            Display Name: OriginalUpAxisSign
+            Internal Name: OriginalUpAxisSign
+            Type: Integer
+            Is Animatable: false
+            Default Value: 1
+        Property 8
+            Display Name: UnitScaleFactor
+            Internal Name: UnitScaleFactor
+            Type: Number
+            Is Animatable: false
+            Default Value: 1.000000
+        Property 9
+            Display Name: OriginalUnitScaleFactor
+            Internal Name: OriginalUnitScaleFactor
+            Type: Number
+            Is Animatable: false
+            Default Value: 1.000000
+        Property 10
+            Display Name: AmbientColor
+            Internal Name: AmbientColor
+            Type: Color
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 11
+            Display Name: DefaultCamera
+            Internal Name: DefaultCamera
+            Type: KString
+            Is Animatable: false
+            Default Value: Producer Perspective
+        Property 12
+            Display Name: TimeMode
+            Internal Name: TimeMode
+            Type: Enum
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 13
+            Display Name: TimeProtocol
+            Internal Name: TimeProtocol
+            Type: Enum
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 14
+            Display Name: SnapOnFrameMode
+            Internal Name: SnapOnFrameMode
+            Type: Enum
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 15
+            Display Name: TimeSpanStart
+            Internal Name: TimeSpanStart
+            Type: Time
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 16
+            Display Name: TimeSpanStop
+            Internal Name: TimeSpanStop
+            Type: Time
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 17
+            Display Name: CustomFrameRate
+            Internal Name: CustomFrameRate
+            Type: Number
+            Is Animatable: false
+            Default Value: -1.000000
+        Property 18
+            Display Name: TimeMarker
+            Internal Name: TimeMarker
+            Type: Compound
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 19
+            Display Name: CurrentTimeMarker
+            Internal Name: CurrentTimeMarker
+            Type: Integer
+            Is Animatable: false
+            Default Value: -1
+Name: 
+    Property Count: 3
+        Property 0
+            Display Name: Color
+            Internal Name: Color
+            Type: Color
+            Is Animatable: false
+            Default Value: X=0.8, Y=0.8, Z=0.8
+        Property 1
+            Display Name: Size
+            Internal Name: Size
+            Type: Number
+            Is Animatable: false
+            Default Value: 665.582214
+        Property 2
+            Display Name: LimbLength
+            Internal Name: LimbLength
+            Type: Number
+            Is Animatable: false
+            Default Value: 1.000000
+Name: 
+    Property Count: 3
+        Property 0
+            Display Name: Color
+            Internal Name: Color
+            Type: Color
+            Is Animatable: false
+            Default Value: X=0.8, Y=0.8, Z=0.8
+        Property 1
+            Display Name: Size
+            Internal Name: Size
+            Type: Number
+            Is Animatable: false
+            Default Value: 793.857910
+        Property 2
+            Display Name: LimbLength
+            Internal Name: LimbLength
+            Type: Number
+            Is Animatable: false
+            Default Value: 1.000000
+Name: Tentacle
+    Property Count: 72
+        Property 0
+            Display Name: QuaternionInterpolate
+            Internal Name: QuaternionInterpolate
+            Type: Enum
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 1
+            Display Name: RotationOffset
+            Internal Name: RotationOffset
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 2
+            Display Name: RotationPivot
+            Internal Name: RotationPivot
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 3
+            Display Name: ScalingOffset
+            Internal Name: ScalingOffset
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 4
+            Display Name: ScalingPivot
+            Internal Name: ScalingPivot
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 5
+            Display Name: TranslationActive
+            Internal Name: TranslationActive
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 6
+            Display Name: TranslationMin
+            Internal Name: TranslationMin
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 7
+            Display Name: TranslationMax
+            Internal Name: TranslationMax
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 8
+            Display Name: TranslationMinX
+            Internal Name: TranslationMinX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 9
+            Display Name: TranslationMinY
+            Internal Name: TranslationMinY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 10
+            Display Name: TranslationMinZ
+            Internal Name: TranslationMinZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 11
+            Display Name: TranslationMaxX
+            Internal Name: TranslationMaxX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 12
+            Display Name: TranslationMaxY
+            Internal Name: TranslationMaxY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 13
+            Display Name: TranslationMaxZ
+            Internal Name: TranslationMaxZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 14
+            Display Name: RotationOrder
+            Internal Name: RotationOrder
+            Type: Enum
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 15
+            Display Name: RotationSpaceForLimitOnly
+            Internal Name: RotationSpaceForLimitOnly
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 16
+            Display Name: RotationStiffnessX
+            Internal Name: RotationStiffnessX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 17
+            Display Name: RotationStiffnessY
+            Internal Name: RotationStiffnessY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 18
+            Display Name: RotationStiffnessZ
+            Internal Name: RotationStiffnessZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 19
+            Display Name: AxisLen
+            Internal Name: AxisLen
+            Type: Number
+            Is Animatable: false
+            Default Value: 10.000000
+        Property 20
+            Display Name: PreRotation
+            Internal Name: PreRotation
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=-90, Y=-0, Z=0
+        Property 21
+            Display Name: PostRotation
+            Internal Name: PostRotation
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 22
+            Display Name: RotationActive
+            Internal Name: RotationActive
+            Type: Bool
+            Is Animatable: false
+            Default Value: true
+        Property 23
+            Display Name: RotationMin
+            Internal Name: RotationMin
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 24
+            Display Name: RotationMax
+            Internal Name: RotationMax
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 25
+            Display Name: RotationMinX
+            Internal Name: RotationMinX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 26
+            Display Name: RotationMinY
+            Internal Name: RotationMinY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 27
+            Display Name: RotationMinZ
+            Internal Name: RotationMinZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 28
+            Display Name: RotationMaxX
+            Internal Name: RotationMaxX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 29
+            Display Name: RotationMaxY
+            Internal Name: RotationMaxY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 30
+            Display Name: RotationMaxZ
+            Internal Name: RotationMaxZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 31
+            Display Name: InheritType
+            Internal Name: InheritType
+            Type: Enum
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 32
+            Display Name: ScalingActive
+            Internal Name: ScalingActive
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 33
+            Display Name: ScalingMin
+            Internal Name: ScalingMin
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 34
+            Display Name: ScalingMax
+            Internal Name: ScalingMax
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 35
+            Display Name: ScalingMinX
+            Internal Name: ScalingMinX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 36
+            Display Name: ScalingMinY
+            Internal Name: ScalingMinY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 37
+            Display Name: ScalingMinZ
+            Internal Name: ScalingMinZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 38
+            Display Name: ScalingMaxX
+            Internal Name: ScalingMaxX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 39
+            Display Name: ScalingMaxY
+            Internal Name: ScalingMaxY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 40
+            Display Name: ScalingMaxZ
+            Internal Name: ScalingMaxZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 41
+            Display Name: GeometricTranslation
+            Internal Name: GeometricTranslation
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=-1.13687e-13, Z=-12.5
+        Property 42
+            Display Name: GeometricRotation
+            Internal Name: GeometricRotation
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 43
+            Display Name: GeometricScaling
+            Internal Name: GeometricScaling
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=1, Y=1, Z=1
+        Property 44
+            Display Name: MinDampRangeX
+            Internal Name: MinDampRangeX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 45
+            Display Name: MinDampRangeY
+            Internal Name: MinDampRangeY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 46
+            Display Name: MinDampRangeZ
+            Internal Name: MinDampRangeZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 47
+            Display Name: MaxDampRangeX
+            Internal Name: MaxDampRangeX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 48
+            Display Name: MaxDampRangeY
+            Internal Name: MaxDampRangeY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 49
+            Display Name: MaxDampRangeZ
+            Internal Name: MaxDampRangeZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 50
+            Display Name: MinDampStrengthX
+            Internal Name: MinDampStrengthX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 51
+            Display Name: MinDampStrengthY
+            Internal Name: MinDampStrengthY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 52
+            Display Name: MinDampStrengthZ
+            Internal Name: MinDampStrengthZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 53
+            Display Name: MaxDampStrengthX
+            Internal Name: MaxDampStrengthX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 54
+            Display Name: MaxDampStrengthY
+            Internal Name: MaxDampStrengthY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 55
+            Display Name: MaxDampStrengthZ
+            Internal Name: MaxDampStrengthZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 56
+            Display Name: PreferedAngleX
+            Internal Name: PreferedAngleX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 57
+            Display Name: PreferedAngleY
+            Internal Name: PreferedAngleY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 58
+            Display Name: PreferedAngleZ
+            Internal Name: PreferedAngleZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 59
+            Display Name: LookAtProperty
+            Internal Name: LookAtProperty
+            Type: object
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 60
+            Display Name: UpVectorProperty
+            Internal Name: UpVectorProperty
+            Type: object
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 61
+            Display Name: Show
+            Internal Name: Show
+            Type: Bool
+            Is Animatable: false
+            Default Value: true
+        Property 62
+            Display Name: NegativePercentShapeSupport
+            Internal Name: NegativePercentShapeSupport
+            Type: Bool
+            Is Animatable: false
+            Default Value: true
+        Property 63
+            Display Name: DefaultAttributeIndex
+            Internal Name: DefaultAttributeIndex
+            Type: Integer
+            Is Animatable: false
+            Default Value: 0
+        Property 64
+            Display Name: Freeze
+            Internal Name: Freeze
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 65
+            Display Name: LODBox
+            Internal Name: LODBox
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 66
+            Display Name: Lcl Translation
+            Internal Name: Lcl Translation
+            Type: Lcl Translation
+            Is Animatable: true
+            Default Value: X=0, Y=-2.03651e-06, Z=-0
+        Property 67
+            Display Name: Lcl Rotation
+            Internal Name: Lcl Rotation
+            Type: Lcl Rotation
+            Is Animatable: true
+            Default Value: X=90, Y=-0, Z=0
+        Property 68
+            Display Name: Lcl Scaling
+            Internal Name: Lcl Scaling
+            Type: Lcl Scaling
+            Is Animatable: true
+            Default Value: X=1, Y=1, Z=1
+        Property 69
+            Display Name: Visibility
+            Internal Name: Visibility
+            Type: Visibility
+            Is Animatable: true
+            Default Value: 1.000000
+        Property 70
+            Display Name: Visibility Inheritance
+            Internal Name: Visibility Inheritance
+            Type: Visibility Inheritance
+            Is Animatable: false
+            Default Value: true
+        Property 71
+            Display Name: MaxHandle
+            Internal Name: MaxHandle
+            Type: Integer
+            Min Limit: 0.000000
+            Max Limit: 0.000000
+            Is Animatable: false
+            Default Value: 2
+Name: Bone001
+    Property Count: 72
+        Property 0
+            Display Name: QuaternionInterpolate
+            Internal Name: QuaternionInterpolate
+            Type: Enum
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 1
+            Display Name: RotationOffset
+            Internal Name: RotationOffset
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 2
+            Display Name: RotationPivot
+            Internal Name: RotationPivot
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 3
+            Display Name: ScalingOffset
+            Internal Name: ScalingOffset
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 4
+            Display Name: ScalingPivot
+            Internal Name: ScalingPivot
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 5
+            Display Name: TranslationActive
+            Internal Name: TranslationActive
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 6
+            Display Name: TranslationMin
+            Internal Name: TranslationMin
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 7
+            Display Name: TranslationMax
+            Internal Name: TranslationMax
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 8
+            Display Name: TranslationMinX
+            Internal Name: TranslationMinX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 9
+            Display Name: TranslationMinY
+            Internal Name: TranslationMinY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 10
+            Display Name: TranslationMinZ
+            Internal Name: TranslationMinZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 11
+            Display Name: TranslationMaxX
+            Internal Name: TranslationMaxX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 12
+            Display Name: TranslationMaxY
+            Internal Name: TranslationMaxY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 13
+            Display Name: TranslationMaxZ
+            Internal Name: TranslationMaxZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 14
+            Display Name: RotationOrder
+            Internal Name: RotationOrder
+            Type: Enum
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 15
+            Display Name: RotationSpaceForLimitOnly
+            Internal Name: RotationSpaceForLimitOnly
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 16
+            Display Name: RotationStiffnessX
+            Internal Name: RotationStiffnessX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 17
+            Display Name: RotationStiffnessY
+            Internal Name: RotationStiffnessY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 18
+            Display Name: RotationStiffnessZ
+            Internal Name: RotationStiffnessZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 19
+            Display Name: AxisLen
+            Internal Name: AxisLen
+            Type: Number
+            Is Animatable: false
+            Default Value: 10.000000
+        Property 20
+            Display Name: PreRotation
+            Internal Name: PreRotation
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=-90, Y=-0, Z=0
+        Property 21
+            Display Name: PostRotation
+            Internal Name: PostRotation
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 22
+            Display Name: RotationActive
+            Internal Name: RotationActive
+            Type: Bool
+            Is Animatable: false
+            Default Value: true
+        Property 23
+            Display Name: RotationMin
+            Internal Name: RotationMin
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 24
+            Display Name: RotationMax
+            Internal Name: RotationMax
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 25
+            Display Name: RotationMinX
+            Internal Name: RotationMinX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 26
+            Display Name: RotationMinY
+            Internal Name: RotationMinY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 27
+            Display Name: RotationMinZ
+            Internal Name: RotationMinZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 28
+            Display Name: RotationMaxX
+            Internal Name: RotationMaxX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 29
+            Display Name: RotationMaxY
+            Internal Name: RotationMaxY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 30
+            Display Name: RotationMaxZ
+            Internal Name: RotationMaxZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 31
+            Display Name: InheritType
+            Internal Name: InheritType
+            Type: Enum
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 32
+            Display Name: ScalingActive
+            Internal Name: ScalingActive
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 33
+            Display Name: ScalingMin
+            Internal Name: ScalingMin
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 34
+            Display Name: ScalingMax
+            Internal Name: ScalingMax
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 35
+            Display Name: ScalingMinX
+            Internal Name: ScalingMinX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 36
+            Display Name: ScalingMinY
+            Internal Name: ScalingMinY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 37
+            Display Name: ScalingMinZ
+            Internal Name: ScalingMinZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 38
+            Display Name: ScalingMaxX
+            Internal Name: ScalingMaxX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 39
+            Display Name: ScalingMaxY
+            Internal Name: ScalingMaxY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 40
+            Display Name: ScalingMaxZ
+            Internal Name: ScalingMaxZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 41
+            Display Name: GeometricTranslation
+            Internal Name: GeometricTranslation
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 42
+            Display Name: GeometricRotation
+            Internal Name: GeometricRotation
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 43
+            Display Name: GeometricScaling
+            Internal Name: GeometricScaling
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=1, Y=1, Z=1
+        Property 44
+            Display Name: MinDampRangeX
+            Internal Name: MinDampRangeX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 45
+            Display Name: MinDampRangeY
+            Internal Name: MinDampRangeY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 46
+            Display Name: MinDampRangeZ
+            Internal Name: MinDampRangeZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 47
+            Display Name: MaxDampRangeX
+            Internal Name: MaxDampRangeX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 48
+            Display Name: MaxDampRangeY
+            Internal Name: MaxDampRangeY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 49
+            Display Name: MaxDampRangeZ
+            Internal Name: MaxDampRangeZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 50
+            Display Name: MinDampStrengthX
+            Internal Name: MinDampStrengthX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 51
+            Display Name: MinDampStrengthY
+            Internal Name: MinDampStrengthY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 52
+            Display Name: MinDampStrengthZ
+            Internal Name: MinDampStrengthZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 53
+            Display Name: MaxDampStrengthX
+            Internal Name: MaxDampStrengthX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 54
+            Display Name: MaxDampStrengthY
+            Internal Name: MaxDampStrengthY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 55
+            Display Name: MaxDampStrengthZ
+            Internal Name: MaxDampStrengthZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 56
+            Display Name: PreferedAngleX
+            Internal Name: PreferedAngleX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 57
+            Display Name: PreferedAngleY
+            Internal Name: PreferedAngleY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 58
+            Display Name: PreferedAngleZ
+            Internal Name: PreferedAngleZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 59
+            Display Name: LookAtProperty
+            Internal Name: LookAtProperty
+            Type: object
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 60
+            Display Name: UpVectorProperty
+            Internal Name: UpVectorProperty
+            Type: object
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 61
+            Display Name: Show
+            Internal Name: Show
+            Type: Bool
+            Is Animatable: false
+            Default Value: true
+        Property 62
+            Display Name: NegativePercentShapeSupport
+            Internal Name: NegativePercentShapeSupport
+            Type: Bool
+            Is Animatable: false
+            Default Value: true
+        Property 63
+            Display Name: DefaultAttributeIndex
+            Internal Name: DefaultAttributeIndex
+            Type: Integer
+            Is Animatable: false
+            Default Value: 0
+        Property 64
+            Display Name: Freeze
+            Internal Name: Freeze
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 65
+            Display Name: LODBox
+            Internal Name: LODBox
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 66
+            Display Name: Lcl Translation
+            Internal Name: Lcl Translation
+            Type: Lcl Translation
+            Is Animatable: true
+            Default Value: X=0, Y=0, Z=0
+        Property 67
+            Display Name: Lcl Rotation
+            Internal Name: Lcl Rotation
+            Type: Lcl Rotation
+            Is Animatable: true
+            Default Value: X=-0.678019, Y=-90, Z=0
+        Property 68
+            Display Name: Lcl Scaling
+            Internal Name: Lcl Scaling
+            Type: Lcl Scaling
+            Is Animatable: true
+            Default Value: X=1, Y=1, Z=1
+        Property 69
+            Display Name: Visibility
+            Internal Name: Visibility
+            Type: Visibility
+            Is Animatable: true
+            Default Value: 1.000000
+        Property 70
+            Display Name: Visibility Inheritance
+            Internal Name: Visibility Inheritance
+            Type: Visibility Inheritance
+            Is Animatable: false
+            Default Value: true
+        Property 71
+            Display Name: MaxHandle
+            Internal Name: MaxHandle
+            Type: Integer
+            Min Limit: 0.000000
+            Max Limit: 0.000000
+            Is Animatable: false
+            Default Value: 3
+Name: Bone002
+    Property Count: 72
+        Property 0
+            Display Name: QuaternionInterpolate
+            Internal Name: QuaternionInterpolate
+            Type: Enum
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 1
+            Display Name: RotationOffset
+            Internal Name: RotationOffset
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 2
+            Display Name: RotationPivot
+            Internal Name: RotationPivot
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 3
+            Display Name: ScalingOffset
+            Internal Name: ScalingOffset
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 4
+            Display Name: ScalingPivot
+            Internal Name: ScalingPivot
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 5
+            Display Name: TranslationActive
+            Internal Name: TranslationActive
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 6
+            Display Name: TranslationMin
+            Internal Name: TranslationMin
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 7
+            Display Name: TranslationMax
+            Internal Name: TranslationMax
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 8
+            Display Name: TranslationMinX
+            Internal Name: TranslationMinX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 9
+            Display Name: TranslationMinY
+            Internal Name: TranslationMinY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 10
+            Display Name: TranslationMinZ
+            Internal Name: TranslationMinZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 11
+            Display Name: TranslationMaxX
+            Internal Name: TranslationMaxX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 12
+            Display Name: TranslationMaxY
+            Internal Name: TranslationMaxY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 13
+            Display Name: TranslationMaxZ
+            Internal Name: TranslationMaxZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 14
+            Display Name: RotationOrder
+            Internal Name: RotationOrder
+            Type: Enum
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 15
+            Display Name: RotationSpaceForLimitOnly
+            Internal Name: RotationSpaceForLimitOnly
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 16
+            Display Name: RotationStiffnessX
+            Internal Name: RotationStiffnessX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 17
+            Display Name: RotationStiffnessY
+            Internal Name: RotationStiffnessY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 18
+            Display Name: RotationStiffnessZ
+            Internal Name: RotationStiffnessZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 19
+            Display Name: AxisLen
+            Internal Name: AxisLen
+            Type: Number
+            Is Animatable: false
+            Default Value: 10.000000
+        Property 20
+            Display Name: PreRotation
+            Internal Name: PreRotation
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 21
+            Display Name: PostRotation
+            Internal Name: PostRotation
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 22
+            Display Name: RotationActive
+            Internal Name: RotationActive
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 23
+            Display Name: RotationMin
+            Internal Name: RotationMin
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 24
+            Display Name: RotationMax
+            Internal Name: RotationMax
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 25
+            Display Name: RotationMinX
+            Internal Name: RotationMinX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 26
+            Display Name: RotationMinY
+            Internal Name: RotationMinY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 27
+            Display Name: RotationMinZ
+            Internal Name: RotationMinZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 28
+            Display Name: RotationMaxX
+            Internal Name: RotationMaxX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 29
+            Display Name: RotationMaxY
+            Internal Name: RotationMaxY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 30
+            Display Name: RotationMaxZ
+            Internal Name: RotationMaxZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 31
+            Display Name: InheritType
+            Internal Name: InheritType
+            Type: Enum
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 32
+            Display Name: ScalingActive
+            Internal Name: ScalingActive
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 33
+            Display Name: ScalingMin
+            Internal Name: ScalingMin
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 34
+            Display Name: ScalingMax
+            Internal Name: ScalingMax
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 35
+            Display Name: ScalingMinX
+            Internal Name: ScalingMinX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 36
+            Display Name: ScalingMinY
+            Internal Name: ScalingMinY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 37
+            Display Name: ScalingMinZ
+            Internal Name: ScalingMinZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 38
+            Display Name: ScalingMaxX
+            Internal Name: ScalingMaxX
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 39
+            Display Name: ScalingMaxY
+            Internal Name: ScalingMaxY
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 40
+            Display Name: ScalingMaxZ
+            Internal Name: ScalingMaxZ
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 41
+            Display Name: GeometricTranslation
+            Internal Name: GeometricTranslation
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 42
+            Display Name: GeometricRotation
+            Internal Name: GeometricRotation
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 43
+            Display Name: GeometricScaling
+            Internal Name: GeometricScaling
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=1, Y=1, Z=1
+        Property 44
+            Display Name: MinDampRangeX
+            Internal Name: MinDampRangeX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 45
+            Display Name: MinDampRangeY
+            Internal Name: MinDampRangeY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 46
+            Display Name: MinDampRangeZ
+            Internal Name: MinDampRangeZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 47
+            Display Name: MaxDampRangeX
+            Internal Name: MaxDampRangeX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 48
+            Display Name: MaxDampRangeY
+            Internal Name: MaxDampRangeY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 49
+            Display Name: MaxDampRangeZ
+            Internal Name: MaxDampRangeZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 50
+            Display Name: MinDampStrengthX
+            Internal Name: MinDampStrengthX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 51
+            Display Name: MinDampStrengthY
+            Internal Name: MinDampStrengthY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 52
+            Display Name: MinDampStrengthZ
+            Internal Name: MinDampStrengthZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 53
+            Display Name: MaxDampStrengthX
+            Internal Name: MaxDampStrengthX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 54
+            Display Name: MaxDampStrengthY
+            Internal Name: MaxDampStrengthY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 55
+            Display Name: MaxDampStrengthZ
+            Internal Name: MaxDampStrengthZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 56
+            Display Name: PreferedAngleX
+            Internal Name: PreferedAngleX
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 57
+            Display Name: PreferedAngleY
+            Internal Name: PreferedAngleY
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 58
+            Display Name: PreferedAngleZ
+            Internal Name: PreferedAngleZ
+            Type: Number
+            Is Animatable: false
+            Default Value: 0.000000
+        Property 59
+            Display Name: LookAtProperty
+            Internal Name: LookAtProperty
+            Type: object
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 60
+            Display Name: UpVectorProperty
+            Internal Name: UpVectorProperty
+            Type: object
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 61
+            Display Name: Show
+            Internal Name: Show
+            Type: Bool
+            Is Animatable: false
+            Default Value: true
+        Property 62
+            Display Name: NegativePercentShapeSupport
+            Internal Name: NegativePercentShapeSupport
+            Type: Bool
+            Is Animatable: false
+            Default Value: true
+        Property 63
+            Display Name: DefaultAttributeIndex
+            Internal Name: DefaultAttributeIndex
+            Type: Integer
+            Is Animatable: false
+            Default Value: 0
+        Property 64
+            Display Name: Freeze
+            Internal Name: Freeze
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 65
+            Display Name: LODBox
+            Internal Name: LODBox
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 66
+            Display Name: Lcl Translation
+            Internal Name: Lcl Translation
+            Type: Lcl Translation
+            Is Animatable: true
+            Default Value: X=95.0832, Y=-9.32813e-06, Z=0
+        Property 67
+            Display Name: Lcl Rotation
+            Internal Name: Lcl Rotation
+            Type: Lcl Rotation
+            Is Animatable: true
+            Default Value: X=5.7804e-08, Y=-40, Z=1.01307
+        Property 68
+            Display Name: Lcl Scaling
+            Internal Name: Lcl Scaling
+            Type: Lcl Scaling
+            Is Animatable: true
+            Default Value: X=1.17882, Y=0.848307, Z=0.848307
+        Property 69
+            Display Name: Visibility
+            Internal Name: Visibility
+            Type: Visibility
+            Is Animatable: true
+            Default Value: 1.000000
+        Property 70
+            Display Name: Visibility Inheritance
+            Internal Name: Visibility Inheritance
+            Type: Visibility Inheritance
+            Is Animatable: false
+            Default Value: true
+        Property 71
+            Display Name: MaxHandle
+            Internal Name: MaxHandle
+            Type: Integer
+            Min Limit: 0.000000
+            Max Limit: 0.000000
+            Is Animatable: false
+            Default Value: 4
+Name: Take 001
+    Property Count: 5
+        Property 0
+            Display Name: Description
+            Internal Name: Description
+            Type: KString
+            Is Animatable: false
+            Default Value: 
+        Property 1
+            Display Name: LocalStart
+            Internal Name: LocalStart
+            Type: Time
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 2
+            Display Name: LocalStop
+            Internal Name: LocalStop
+            Type: Time
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 3
+            Display Name: ReferenceStart
+            Internal Name: ReferenceStart
+            Type: Time
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 4
+            Display Name: ReferenceStop
+            Internal Name: ReferenceStop
+            Type: Time
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+Name: BaseLayer
+    Property Count: 9
+        Property 0
+            Display Name: Weight
+            Internal Name: Weight
+            Type: Number
+            Is Animatable: true
+            Default Value: 100.000000
+        Property 1
+            Display Name: Mute
+            Internal Name: Mute
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 2
+            Display Name: Solo
+            Internal Name: Solo
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 3
+            Display Name: Lock
+            Internal Name: Lock
+            Type: Bool
+            Is Animatable: false
+            Default Value: false
+        Property 4
+            Display Name: Color
+            Internal Name: Color
+            Type: Color
+            Is Animatable: false
+            Default Value: X=0.8, Y=0.8, Z=0.8
+        Property 5
+            Display Name: BlendMode
+            Internal Name: BlendMode
+            Type: Enum
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 6
+            Display Name: RotationAccumulationMode
+            Internal Name: RotationAccumulationMode
+            Type: Enum
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 7
+            Display Name: ScaleAccumulationMode
+            Internal Name: ScaleAccumulationMode
+            Type: Enum
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 8
+            Display Name: BlendModeBypass
+            Internal Name: BlendModeBypass
+            Type: ULongLong
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+Name: 
+    Property Count: 6
+        Property 0
+            Display Name: Color
+            Internal Name: Color
+            Type: Color
+            Is Animatable: false
+            Default Value: X=0.603922, Y=0.843137, Z=0.898039
+        Property 1
+            Display Name: BBoxMin
+            Internal Name: BBoxMin
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 2
+            Display Name: BBoxMax
+            Internal Name: BBoxMax
+            Type: Vector
+            Is Animatable: false
+            Default Value: X=0, Y=0, Z=0
+        Property 3
+            Display Name: Primary Visibility
+            Internal Name: Primary Visibility
+            Type: Bool
+            Is Animatable: false
+            Default Value: true
+        Property 4
+            Display Name: Casts Shadows
+            Internal Name: Casts Shadows
+            Type: Bool
+            Is Animatable: false
+            Default Value: true
+        Property 5
+            Display Name: Receive Shadows
+            Internal Name: Receive Shadows
+            Type: Bool
+            Is Animatable: false
+            Default Value: true
+Name: 
+Name: 
+Name: 
+Name: 
+Name: 
+Name: 
+Name: R
+    Property Count: 4
+        Property 0
+            Display Name: d
+            Internal Name: d
+            Type: Compound
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 1
+            Display Name: X
+            Internal Name: X
+            Type: Number
+            Is Animatable: true
+            Default Value: 0.000000
+        Property 2
+            Display Name: Y
+            Internal Name: Y
+            Type: Number
+            Is Animatable: true
+            Default Value: -39.999992
+        Property 3
+            Display Name: Z
+            Internal Name: Z
+            Type: Number
+            Is Animatable: true
+            Default Value: 1.013069
+Name: S
+    Property Count: 4
+        Property 0
+            Display Name: d
+            Internal Name: d
+            Type: Compound
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+        Property 1
+            Display Name: X
+            Internal Name: X
+            Type: Number
+            Is Animatable: true
+            Default Value: 1.178819
+        Property 2
+            Display Name: Y
+            Internal Name: Y
+            Type: Number
+            Is Animatable: true
+            Default Value: 0.848307
+        Property 3
+            Display Name: Z
+            Internal Name: Z
+            Type: Number
+            Is Animatable: true
+            Default Value: 0.848307
+Name: 
+Name: 
+    Property Count: 1
+        Property 0
+            Display Name: SrcModelReference
+            Internal Name: SrcModelReference
+            Type: object
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+Name: 
+    Property Count: 1
+        Property 0
+            Display Name: SrcModelReference
+            Internal Name: SrcModelReference
+            Type: object
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+Name: BIND_POSES
+    Property Count: 1
+        Property 0
+            Display Name: Nodes
+            Internal Name: Nodes
+            Type: object
+            Is Animatable: false
+            Default Value: UNIDENTIFIED
+Program Success!

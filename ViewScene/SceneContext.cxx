@@ -733,6 +733,10 @@ bool SceneContext::OnDisplay()
             lPose = mScene->GetPose(mPoseIndex);
         }
 
+				FbxAnimStack* animStack = mScene->GetCurrentAnimationStack();
+        FbxAnimEvaluator* animEvaluator = mScene->GetAnimationEvaluator();
+
+
         // If one node is selected, draw it and its children.
         FbxAMatrix lDummyGlobalPosition;
         
